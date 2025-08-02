@@ -1,0 +1,43 @@
+version: "3.8"
+
+services:
+
+  qdrant:
+    image: qdrant/qdrant
+    ports:
+      - "6335:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  ollama:
+    image: ollama/ollama
+    ports:
+      - "11436:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    post_start:
+      - command: ollama pull wizardlm2:7b && ollama serve
+
+  backend:
+    build: ./backend
+    ports:
+      - "8003:8000"
+    depends_on:
+      - qdrant
+      - ollama
+    volumes:
+      - ./backend:/app  
+      - ./GGTexts:/app/GGTexts
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app      
+
+volumes:
+  qdrant_data:
+  ollama_data:

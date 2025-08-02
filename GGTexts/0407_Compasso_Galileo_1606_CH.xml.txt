@@ -1,0 +1,2014 @@
+LE OPERAZIONI
+DEL COMPASSO
+GEOMETRICO,
+ET MILITARE.
+DI
+GALILEO GALILEI
+NOBIL FIORENTINO
+LETTOR DELLE MATEMATICHE
+nello Studio di Padoua.
+Dedicato
+AL SERENISS. PRINCIPE DI TOSCANA
+D. COSIMO MEDICI.
+IN PADOVA,
+In Casa dell'Autore, Per Pietro Marinelli. MDCVI.
+Con licenza de i Superiori.
+
+
+AL SER.MO D. COSIMO 
+MEDICI
+PRINCIPE DI TOSCANA, &C.
+Se io volessi, Serenissimo Principe, spiegare in questo 
+luogo il numero delle lodi, che alla grandezza de i 
+proprii meriti dell' A. V. & della Sua Sereniss. Casa si 
+devono, così lungo discorso far mi converrebbe, che 
+il Proemio di lunga mano il resto del ragionamento avanzerebbe; 
+onde io mi asterrò di tentare quell'impresa, al mezo della quale, 
+non che al fine, condurmi diffiderei. Oltre che non per accrescere 
+splendore alla Serenità Vostra, che già come nascente Sole per tutto 
+l'occidente risplende, hò io abbracciata l'occasione di dedicarli
+la presente fatica, mà all'incontro acciò che il fregio, & l’ornamento
+del nome vostro, che in fronte, com'io nell'anima, porterà sempre
+scritto, all'oscure sue tenebre gratia, & splendore aqquisti. Nè io come
+oratore, per esaltare la gloria di V. A. S. gli vengo avanti, mà come
+devotissimo servo, & humilissimo vasallo, li porgo un debito 
+tributo; il che prima havrei fatto, se la tenerezza della sua età non mi 
+havesse persuaso ad aspettar questi anni à simili studii più accomodati. 
+Che poi questo picciol dono deva esser con lieta fronte ricevuto 
+dall'A. V., non devo io mettere in dubio; sì perche l'infinita, sua 
+humanità nativa me lo persuade, & la proporzione, che hà questa 
+lettura con li altri tanti suoi esercizii regii, me l'aﬀerma, sì ancora, oltre 
+à ciò, perche l'esperienza stessa me l'accerta, essendosi ella per 
+gran parte dell’Estate passata, degnata di ascoltar con tanto benigna 
+udienza dalla mia viva voce l'esplicazione di molti usi di questo 
+Strumento. Gradirà dunque l'A. V. S. questo mio, dirò quasi, 
+scherzo Matematico à i suoi primi giovenili studii nobilmente conforme; 
+& avanzandosi con l'età in queste, veramente Regie discipline, aspetti 
+di tempo in tempo dal mio basso ingegno tutti quei più maturi frutti, 
+che dalla Divina grazia m'è stato, & sarà conceduto di raccorre. 
+Et qui con ogni humiltà inchinandomi li bacio reverentemente la vesta; 
+& dal S. Dio li prego somma felicità. Di Padova, li X. di Luglio 1606.
+Di V. A. Sereniss.
+Humiliss. & Obligatiss. Servo
+Galileo Galilei
+
+
+A I DISCRETI LETTORI.
+La occasione di pratticar con tanti, e tanti Signori grandi in questo nobilissimo Studio 
+di Padova, per instituirgli nelle Scienze Matematiche, mi hà con lunga esperienza 
+fatto conoscere, come non fù del tutto indecente la richiesta di quel 
+gran discepolo, che da Archimede, suo maestro nella Geometria, ricercò strada 
+più facile, & aperta, che all' aqquisto di quella lo conducesse: imperò che 
+anco in questa età pochissimi sono à i quali gli erti, et spinosi sentieri, per i quali 
+passar bisogna prima che all' aqquisto de i preziosi frutti di queste scienze pervenir si possa, 
+non rincreschino, ò che spaventati dalla lunga asprezza, & più dal non vedere, ò potersi imaginare, 
+come queste oscure, & sconosciute strade al desiderato temine condur gli possino, à men 
+che mezo il cammino non si atterrino, & abbandonino l'impresa. Et ciò hò io tanto più frequentemente 
+veduto accadere, quanto con più gran personaggi mi sono incontrato; come quelli, che essendo in
+tanti altri maneggi occupati, & distratti, non possono in questi esercitar quell' assidua 
+pazienza, che vi saria necessaria. lo dunque scusandogli insieme col giovine Rè di Siracusa, 
+& desiderando che non restino per la difficoltà, & lunghezza delle communi strade privi di 
+cognizioni tanto à nobili Signori necessarie, mi rivolsi à tentare di aprir questa Via veramente
+Regia, la quale con l' aiuto di questo mio Compasso in pochissimi giorni insegna tutto quello, 
+che dalla Geometria, & dall'Aritmetica, per l'uso Civile, & Militare non senza lunghissimi studii 
+per le vie ordinarie, si riceue. Quello, che io habbia con questa mia opera conseguito, nol 
+dirò io, ma lo lascierò giudicare à quelli, che da me sin quì l' hanno appresa, ò per l'avvenire l'apprenderanno, & in particolare da chi havrà veduti gli Strumenti da gl' altri in simili propositi 
+ritrovati: benche la più gran parte dell'invenzioni, & le maggiori, che nel mio Strumento si contengono, 
+da altri sin quì non sono state, nè tentate, nè immaginate; trà le quali è molto principale 
+questa del poter qual si voglia persona risolvere in un' istante le più difficili operazioni di 
+Aritmetica; delle quali però ne descrivo quelle sole, che alle Civili, & Militari occorrenze 
+più frequentemente accaggiono. Duolmi solamente, Benigno Lettore, che quantunque io mi 
+sia ingegnato di spiegare le seguenti cose con ogni chiarezza, e facilità possibile, tuttavia, à chi le dovrà 
+dalla scrittura cavare, resteranno in qualche oscurità involte, perdendo appresso molta di quella 
+grazia, che nel vederle attualmente operare, e nell'apprenderle dalla viva voce, le rende meravigliose; ma questa è una di quelle materie, che non patiscono di essere con chiarezza, & facilità 
+descritte, ne intese, se prima dalla viva voce non si ascoltano, & nell'atto stesso esercitar non si 
+veggono. Et questa saria stata potente cagione, che mi harrebbe fatto astener dall'imprimer 
+quest’ opera, se non mi fosse giunto all'orecchie, che altri, alle mani di cui, non sò in qual guisa, è 
+pervenuto uno de i miei Strumenti con la sua dichiarazione, si apparecchiava per appropriarselo; 
+il che mi hà messo in necessità di assicurar col testimonio delle stampe, non meno le fatiche 
+mie, che la riputatione di chi se l'havesse volute attribuire; perche quanto al far cauto me, non 
+mancano le testimonianze di Principi, & altri gran Signori, i quali da 8. anni in quà hanno questo 
+Strumento veduto, & da me appresone l'uso; de i quali quattro soli mi basterà hora nominare. 
+Uno fu l'Illustrissimo, & Eccellentiss. S. Gio. Friderico Principe di Holsazia, &c. e Conte 
+in Oldemburg &c., che l'anno 1598. apprese da me l'uso di questo Strumento, mà non ancora 
+à perfezione ridotto. Et poco doppo fui dell'istesso favore honorato dal Serenissmo Arciduca 
+D. Ferdinando d'Austria. L'Illustrissimo, & Eccellentissimo S. Filippo Landgravio di Assia, & 
+Conte di Nidda, &c. l'anno 1601. intese il medesimo uso quì in Padova. Et il Serenis. di Mantova 
+due anni sono volse da me sentirne l'Esplicazione.
+Aggiugnesi che il tacere io la fabrica dello Strumento, la quale per la lunga e laboriosa sua descrizione,
+& per altri rispetti al presente pretermetto, renderà questo trattato del tutto inutile,
+à chi senza lo Strumento ei pervenisse nelle mani. Et per tal causa ne hò io fatte stampare 
+appresso di me 60. copie sole, per presentarne insieme con lo Strumento, con la somma diligenza, 
+che si ricerca fabricato, & diviso, prima al Sereniss. Principe di Toscana mio Sig., & poi 
+ad altri Signori, da' i quali sò questa mia fatica esser desiderata. Finalmente essendo mia intenzione 
+di esplicare al presente operazioni per lo più attenenti al soldato, hò giudicato esser bene
+scrivere in favella Toscana, accioche venendo talhora il libro in mano di persone più intendenti 
+della Militia, che della lingua latina, possa da loro esser comodamente inteso. Vivete felici.
+
+
+DIVISIONE DELLA LINEA,
+OPERATIONE PRIMA.
+Venendo alla dichiaratione particolare delle 
+operationi di questo nuovo Compasso Geometrico, 
+& Militare, primamente faremo principio 
+da quella faccia di esso nella quale sono notate 
+quattro coppie di linee con loro divisioni,
+& numeri; & trà esse parleremo prima delle più 
+interiori, denominate Linee Aritmetiche per esser le loro divisioni 
+fatte in proportione Aritmetica, cioè con eguali eccessi, che procedono 
+sino al numero 250. dalle quali trarremo diversi usi, & 
+primamente.
+Col mezo di queste linee potremo dividere una linea retta propostaci 
+in quante parti eguali ne piacerà, operando in alcuno delli 
+infrascritti modi. 
+Quando la proposta linea sia di mediocre grandezza, si che non 
+ecceda l'apertura dello Strumento, piglieremo con un Compasso 
+ordinario l'intera quantità di quella, & questo spazio applicheremo 
+traversalmente aprendo lo Strumento à qualunque numero di esse 
+linee aritmetiche, pur che sia tale, che sopra le medesime linee ve 
+ne sia un minore, & da quello contenuto tante volte quante sono 
+le parti in che si hà da dividere la linea proposta; & aggiustato in 
+tal guisa lo Strumento, & preso lo spazio traversale trà i punti di 
+questo minor numero, questo senz' alcun dubbio dividerà la proposta 
+linea nelle parti ordinateci, come per essempio. 
+Dovendo noi dividere la linea data in cinque parti eguali, pigliamo 
+due numeri de' quali il maggiore sia quintuplo dell'altro, 
+come sariano 100. & 20., & aperto lo Strumento aggiustiamolo 
+in maniera, che la distanza già presa col Compasso si adatti traversalmente 
+alli punti segnati 100. 100, & non movendo più lo Strumento
+prendasi la distanza pur traversale trà li punti delle medesime 
+linee segnati 20. 20. perche indubitatamente questa sarà la 
+
+
+quinta parte della linea proposta, & con simile ordine troveremo 
+ogn'altra divisione: avvertendo di prendere numeri grandi pur 
+che non si passi 250. perche così facendo, l'operatione riuscirà più 
+facile, & esatta. 
+L'istesso potremo conseguire operando in un altro modo, &
+l' ordine sarà tale. Volendo dividere per essempio la sottoposta 
+linea AB v. g. in 11. parti, prenderò un numero multiplice dell'
+altro undici volte, come saria 110. & 10. & presa col Compasso 
+tutta la linea AB, l'accomoderò traversalmente aprendo lo Strumento
+alli punti 110. dipoi, non si potendo sopra le medesime linee 
+prendere la distanza trà li punti 10. li quali vengono occupati 
+dalla grandezza della nocella, in vece di questa si piglierà l'intervallo 
+trà li punti 100. 100. stringendo un poco il Compasso; 
+del quale fermata poi un'asta nel punto B. noterò con l'altra il segno 
+C. onde la rimanente linea AC. sarà la undecima parte di 
+tutta l'AB. & similmente fermata l'asta del Compasso in A. segnerò 
+verso l'altra estremità il punto E. lasciando la EB. eguale 
+alla CA. Dipoi stringendo ancora un poco il Compasso, prenderò 
+l' intervallo traversale trà li punti 90. 90. & questo trasporterò 
+da B. in D. & da l'A. in F. & haverò due linee CD. FE. undecime 
+parti ancor'esse della intera. Et col medesimo ordine trasferendo 
+di quà, & di là le distanze prese trà li punti 80. 80. 70. 70. &c., troveremo 
+le altre divisioni; come nella sottoposta linea distintamente 
+si vede.
+Mà quando ci fusse proposta una piccolissima linea da dividersi 
+in molte parti; come sarebbe per essempio la seguente linea AB. 
+per dividerla v. g. in 13. parti, potremo secondo quest'altra regola 
+procedere. 
+Prolunghisi occultamente essa linea AB. sino in C. & misurate 
+in essa altre linee quante ci piaceranno eguali alla AB. & siano nel 
+presente essempio altre sei, siche AC. sia settupla di essa AB. è manifesto, 
+che di quelle parti delle quali la AB. contiene 13., tutta la 
+AC. ne conterrà 91. onde, presa con un Compasso tutta la AC.
+
+
+l'applicheremo trayersalmente, aprendo lo Strumento alli punti 
+91. 91. & stringendo poi il Compasso à un punto meno, cioè à li 
+punti 90. 90. trasporteremo questa distanza dal punto C. verso A. 
+perche notando il termine verso A. si lascerà la ottanun'esima 
+parte di tutta la CA. che è la tredicesima della BA. fuori, pur verso 
+il termine A. & così, se ci piacerà verremo stringendo di punto 
+in punto il Compasso all' 89. 88. 87. &c & trasporteremo questi 
+intervalli dal termine C. verso A. & si verranno di grado in grado 
+ritrovando, & notando le altre particelle della linea proposta 
+AB.
+Mà se finalmente la linea da dividersi fusse lunghissima, siche eccedesse 
+di molto la maggiore apertura dello Strumento potremo 
+in ogni modo prendere di essa la parte assegnataci, la quale sia, per 
+essempio la settima. Hora per trovarla, havendoci prima immaginati 
+due numeri l'uno settuplo dell' altro quali siano v. g. 140. & 
+20. costituiscasi lo Strumento in qual si voglia apertura, & da esso 
+presa con un Compasso la distanza traversale trà li punti 140. 140. 
+veggasi quante volte questa è compresa nella gran linea proposta, 
+& quante volte vi è contenuta tante volte l'intervallo traversale 
+trà li punti 20. 20. si replichi sopra la gran linea, & si haverà la 
+sua settima parte; quando però l'intervallo, che si prese trà Ii punti 
+140. avesse misurato precisamente la data linea; mà se non l'havesse 
+misurata à punto bisogneria prendere dell'avanzo la settima 
+parte secondo il modo di sopra dichiarato, & questa aggiugnere à 
+quell'intervallo, che fu sopra la gran linea più volte replicato, & si 
+haverà la settima parte à capello, secondo che si desiderava. 
+
+
+COME DI UNA LINEA PROPOSTA 
+possiamo prendere qualunque parti ci verranno ordinate.
+Operatione Seconda.
+La presente operazione è tanto più utile, & necessaria
+quanto che senza l'aiuto del nostro Strumento 
+saria difficilissimo trovar tali divisioni, le quali 
+però con lo Strumento in uno instante si conseguiranno. 
+Quando dunque ci bisognasse d'una 
+linea proposta prendere qualunque parti ci venissero 
+ordinate, come per essempio delle 197. parti doviamo prendere 
+le 113. Piglisi senz'altro con un Compasso la lunghezza della 
+data linea, & aperto lo Strumento sinche tale lunghezza si accomodi 
+traversalmente alli punti segnati 197. & più non lo movendo, 
+prendasi con l'istesso Compasso la distanza trà li punti 
+113. 113. che tanta senz'alcun dubio sarà la porzione della linea 
+proposta che alli centotredici centonovantasettesimi si agguaglia. 
+COME LE MEDESIME LINEE CI PRESTANO 
+due, anzi infinite scale per trasportar'una pianta in un'
+altra maggiore, ò minore secondo il nostro arbitrio. Oper. 3.
+È manifesto, che qualunque volta ci bisognasse cavare 
+da un dissegno un' altro maggiore, ò minore secondo 
+qual si voglia proportione fa di mestiero, che ci serviamo 
+di due scale esattamente divise l'una delle quali ci 
+serva per misurare il disegno già fatto, e l'altra per notare le linee 
+del disegno da farsi tutte proportionate alle loro corrispondenti 
+del disegno proposto, & tali due scale havremo sempre dalle 
+linee delle quali hora parliamo, & una d'esse sarà la linea già sopra 
+lo Strumento dirittamente divisa, & ch' hà il suo principio nel centro 
+dello Strumento, & questa, ch' è una scala stabile ci servirà per 
+misurare i lati della proposta Pianta, l'altra, che sarà per disegnare 
+la nuova Pianta deve esser mobile, cioè deve potersi crescere,
+& diminuire ad arbitrio nostro secondo, che la nuova Pianta 
+
+
+dovrà esser ò maggiore, ò minore, e tale scala mutabile sarà quella,
+che dalle medesime linee havremo traversalmente stringendo, ò 
+allargando il nostro Strumento. Mà per più chiara intelligenza del 
+modo d'applicare all'uso tali linee,  ne metteremo un essempio. 
+Siaci dunque proposta la Pianta ABCDE. alla quale se ne deve 
+disegnare un' altra simile, mà sopra la linea FG. la quale sia homologa, 
+cioè, risponda alla linea AB. qui è manifesto, che bisogna 
+servirsi di due scale l'una per misurar le linee della Pianta ABCDE. 
+& l'altra con la quale si misurino le linee della Pianta da farsi, & 
+questa deve esser dell' altra maggiore, ò minore secondo la proportione 
+della linea FG. alla AB. Piglia dunque con un Compasso la 
+linea A. la quale applica rettamente sopra la scala dello Strumento, 
+ponendo un'asta del Compasso nel centro dello Strumento, e 
+l'altra sopra il punto, dove cascherà, che sia per essempio al 60. dipoi 
+prendi pur col Compasso la linea FG. e posta una delle sue 
+aste nel punto 60. apri lo Strumento sin tanto che l' altr' asta caschi 
+giusto traversalmente sopra l'altro corrispondente punto 60. nè 
+più si muterà tale costituzione dello Strumento, ma tutti gli altri 
+
+
+lati della Pianta proposta si misureranno sopra la scala retta, & immediatamente 
+si prenderanno le distanze corrispondenti ad essi 
+traversalmente per li lati della nuova Pianta, come verbi gratia, vogliamo 
+ritrovare la lunghezza della linea GH. rispondente alla 
+BC. prendi col Compasso la distanza BC. e questa applica dal centro 
+dello Stromento rettamente sopra la scala, & fermata l' altr' asta 
+nel punto, dove casca, quale sia per essempio 66. volta l' altr' asta 
+all' altro punto 66. traversalmente rispondente, secondo la cui misura 
+taglierai la linea GH. che risponderà alla BC. in quell' istessa 
+proportione che la linea FG. alla AB. Et avvertiscasi, che quando 
+si volesse trasportare una Pianta piccola in un'altra assai maggiore
+bisognerà servirsi delle due scale con ordine opposto, cioè usare 
+la scala retta per la Pianta da farsi, e la trasversale per misurar le linee 
+della Pianta proposta, come per essempio. Haviamo la Pianta 
+ABCDEF. la quale vogliamo trasportare in un'altra assai maggiore, 
+cioè sopra la linea GH. che sia rispondente alla linea AB. 
+Per aggiustar le scale prendasi la linea GH. & veggasi quanti punti 
+contiene nella scala retta, & veduto contenerne. v. g. 60. prendasi 
+la sua rispondente AB. & adattisi traversalmente alli punti 60. 60. 
+ne più si muova lo Strumento; per trovar poi la linea HI. rispondente 
+alla BC. piglia col Compasso essa BC. & và investigando 
+à quali punti si accomodi sopra la scala traversale, & trovato accomodarsi
+per essempio alli punti 46. piglia immediatamente l'intervallo 
+de i punti 46. sopra la scala retta, & troverai la lunghezza 
+della linea HI. rispondente alla BC. E notisi tanto per questa, 
+quanto per la precedente operazione, che non basta haver trovata 
+la lunghezza HI. se non si trova ancora à qual punto si deve 
+drizzare, accioche costituisca l'angolo H. eguale all'angolo B. però
+trovata che si haverà essa linea HI. fermata un'asta del Compasso 
+nel punto H. si noterà con l' altra occultamente una porzione 
+di arco secondo, che mostra la linea puntata OIN. di poi si piglierà 
+l'intervallo trà 'l punto A. e 'l punto C. & si cercherà quanti 
+punti sia sopra la scala traversale, & trovato essere v. g. 89. si prenderà 
+rettamente la distanza 89. col Compasso, del quale fermata 
+un'asta in G. si noterà con l'altra l'intersecazione dell'arco RIQ. 
+con l' arco primo OIN. fotta nel punto I. al quale si deve drizzar 
+
+
+la linea Hl. & sarà senza dubio l'angolo H. eguale all'angolo B.
+& la linea HI. proporzionale alla BC. & con tale ordine si troveranno 
+li altri punti KLM. rispondenti all' angoli DEF.
+REGOLA DEL TRE RISOLUTA COL MEZO
+del Compasso, & delle medesime linee Aritmetiche
+Operatione Quarta. 
+Servonci le presenti linee, non tanto per la resolutione 
+di diversi problemi lineari, quanto per alcune regole 
+di Aritmetica, trà le quali porremo questa, che risponde 
+à quella, nella quale Euclide c' insegna, Proposti 
+trè numeri trovare il quarto proporzionale; perchw altro non è la 
+regola Aurea, che del trè domandano i prattici, che trovare il quarto 
+numero proporzionale alli trè proposti. Dimostrando adunque 
+il tutto con l'essempio per più chiara intelligenza diciamo: 
+Se 80. ci dà 120. che ci darà 100. Hai dunque trè numeri posti 
+con quest'ordine 80. 120. 100.
+
+
+& per trovare il quarto numero, che cerchiamo, prendi sopra lo 
+Strumento rettamente il secondo numero de i proposti, cioè 120.
+& applicalo trasversalmente al primo, cioè all' 80. dipoi prendi 
+trasversalmente il terzo numero, cioè 100. & misuralo rettamente 
+sopra la scala, & quello che troverai, cioè 150. sarà il quarto numero 
+cercato; & nota che l' istesso avverria, se in vece di prendere il 
+secondo numero pigliassi il terzo, & poi in vece del terzo pigliassi 
+il secondo, cioè, che l'istesso ci darà il secondo numero preso rettamenne, 
+& applicato al primo trasversalmente, pigliando dipoi il 
+terzo trasversalmente, & misurandolo rettamente, che ci daria il 
+terzo rettamente preso, & trasversalmente al primo applicato, pigliando 
+poi il secondo trasversalmente, & rettamente misurandolo;
+che nell'uno, & nell'altro modo troveremo 150. Et ciò è bene 
+haver avvertito, perche secondo le diverse occasioni, questo di 
+quello, ò quello di questo modo di operare ci tornerà più accomodato. 
+Possono circa l'operazione di questa regola del trè occorrere alcuni 
+casi, li quali potriano partorir qualche difficoltà, se non si avvertissero, 
+dimostrando appresso, come in essi si deva procedere; 
+Et prima potria alcuna volta occorrere, che delli 3. numeri proposti, 
+nè il secondo, nè il terzo preso rettamente si potesse applicare 
+trasversalmente al primo, come se si dicesse, 25. mi dà 60. che darà 
+75/ dove tanto il 60. quanto il 75. passa il doppio del primo, cioè 
+di 25. siche nè l'uno, nè l'altro di essi si può rettamente preso applicare 
+trasversalmente ad esso 25. onde, per conseguire l'intento nostro, 
+piglieremo ò il secondo, ò il terzo rettamente, & l'applicheremo 
+al doppio del primo trasversalmente, cioè a 50. (& quando 
+non bastasse al doppio, l'applicheremo al triplo, al quadruplo, &c.)
+dipoi pigliando l'altro trasversalmente, affermeremo, che quello, 
+che ci mostrerà misurato rettamente sarà la metà (overo la terza, ò 
+quarta parte) di quello che cerchiamo. Et così nel proposto essempio
+60. preso rettamente applicato al doppio di 25. cioè a 50. 
+trasversalmente, & subito preso il 75. pur trasversalmente, & questo 
+misurato rettamente troveremo, che ci darà 90. il cui doppio, 
+ciò è 180. è il quarto numero che si cercava. 
+Potria in oltre occorrere, che il secondo ò il terzo de i numeri 
+
+
+proposti non si potesse applicare al primo, per esser esso primo troppo 
+grande, siche eccedesse il numero segnato sopra le linee, cioè 
+250. come se dicessimo 280. mi dà 130. che mi darà 195. in tal 
+caso preso rettamente il 130. si butterà trasversalmente alla metà 
+di 280. che è 140. dipoi si prenderà trasversalmente la metà del terzo 
+numero cioè di 195. che è 97. e mezo, e questo spatio misurato rettamente
+ci darà 90. e mezo, che è quello che si cercava.
+Un'altra cautela sarà bene, che ponghiamo, per servircene quando 
+il secondo ò terzo delli numeri proposti fusse molto grande essendo 
+li altri due mediocri, come quando si dicesse, se 60. mi dà 390. 
+che mi darà 45. preso dunque 45. rettamente, si applicherà trasversalmente 
+al 60. & non si potendo pigliare il 390. intero lo piglieremo 
+in pezzi, secondo che più ci piacerà come v. g. piglierò 90. 
+trasversalmente, il quale misurato rettamente mi darà 67. e mezo, 
+il che noterò da parte; piglierò poi trasversalmente 100. che misurato 
+rettamente mi darà 75. & perche nel 390. vi è una volta 90. 
+& tre volte 100. prenderò tre volte il 75. trovato, & di più 67. e 
+mezo, che fu trovato in virtù del 90. & tutta questa somma fà 
+292. e mezo, per il quarto numero che si cerca. 
+Ultimamente non resteremo di dire, come si possa operare la 
+medesima regola in numeri picciolissimi, ben che nello Strumento 
+non si siano potuti notare i punti dal 15. in giù mediante la nocella 
+che unisce, & collega le aste dello Strumento. Mà in questa 
+occasione, ci serviremo delle decine de i punti, come se fussero unità, 
+si che dicendo per essempio se 10. dà 7. che darà 13. Non potendo 
+pigliar 7. per buttarlo à 10. piglieremo 70. cioè 7. decine, & lo 
+butteremo à 10. decine, cioè à 100. & subito pigliando 13. decine
+torneremo à misurar questa distanza rettamente, & la troveremo 
+contenere punti 91. che sono 9. & un decimo, facendo come si è detto, 
+che ogni decina vaglia uno; Et da tutti questi avvertimenti quando 
+si haveranno bene in prattica, si potrà facilmente investigare la 
+solutione di tutte le difficoltà, che ci potessero in ogni caso occorrere. 
+
+
+REGOLA DEL TRE INVERSA RISOLUTA
+col mezo delle medesime linee. Operatione V. 
+Con non dissimile operatione si risolveranno i quesiti 
+della regola del trè inversa; Eccone un essempio. 
+Quella vittovaglia, che basteria per mantener 60. 
+giorni 100. Soldati, à quanti basteria giorni 75. 
+questi numeri disposti alla regola, stariano in quest'
+ordine 60. 100. 75. 
+Et l' operatione dello Strumento richiede che pigli rettamente 
+il primo numero, cioè 60. & l'applichi trasversalmente al numero 
+terzo, cioè 75. & non movendo lo Strumento piglia trasversalmente 
+il 100. che è il secondo, & misuralo rettamente, & troverai 80. 
+qual' è il numero cercato dove si deve parimente avvertire, che 'l 
+medesimo ritroveremo applicando il secondo rettamente al terzo 
+trasversalmente, & poi misurando rettamente il primo trasversalmente 
+preso. Devesi oltre a ciò notare, che tutti gli avvertimenti 
+posti sopra circa Ia regola del trè si devono ancora in questa per 
+l'appunto osservare.
+REGOLA PER TRASMUTAR LE MONETE.
+Operatione VI. 
+Col mezo di queste medesime linee Aritmetiche possiamo 
+trasmutar ogni spetie di moneta l'una nell'altra con 
+maniera molto facile, & spedita, il che si conseguirà con 
+l' aggiustar prima lo Strumento, pigliando rettamente 
+il prezzo della moneta, che vogliamo trasmutare, & accomodandolo 
+trasversalmente al prezzo di quella, in cui si hà da fare la trasmutazione; 
+come, acciò più distintamente il tutto s' intenda, dichiareremo 
+con un essempio: Vogliamo v. g. trasmutare, scudi d'oro 
+in ducati Venetiani, & perche il prezzo, ò valuta dello scudo d' oro 
+è lire 8. & la valuta del ducato lire 6. soldi 4. è necessario (poi che 
+il ducato non è misurato precisamente dalle lire, entrandovi soldi 
+4.) risolvere l' una, & l'altra moneta, & valutarla con li soldi, considerando 
+
+
+come il prezzo dello Scudo è soldi 160. & quello del ducato 
+124. Per aggiustar dunque lo Strumento alla trasmutatione 
+di scudi d' oro in ducati, piglia rettamente la valuta dello scudo, 
+cioè 160. & applicala, aprendo lo Strumento, traversalmente al 
+valore del ducato, cioè a 124. nè più moverai lo Strumento. Dipoi 
+qualunque somma di scudi proposta trasmuterai in ducati, pigliando 
+la detta somma trasversalmente, & misurandola rettamente,
+come per essempio, vogliamo sapere quanti ducati faccino 186. 
+scudi, piglia 186. per traverso, & misuralo rettamente, & troverai 
+240. & tanti ducati faranno li detti scudi. 
+REGOLA DE GL' INTERESSI SOPRA INTERESSI, 
+che altrimenti si dice de i meriti à capo d'Anno. 
+Operatione VII.
+Assai speditamente potremo risolvere le questioni di questa 
+regola con l'aiuto delle medesime linee Aritmetiche, 
+& ciò con due diverse maniere di operare, come 
+con due seguenti essempi faremo chiaro, & manifesto. 
+Cercasi quanto siano per guadagnare 140. scudi in 5. anni à ragione 
+di 6. per 100. l'anno, lasciando gl' interessi sopra il capitale, & 
+sopra li altri interessi, acciò che continuamente guadagnino; Per 
+trovar dunque quanto cerchiamo, piglia rettamente il primo capitale, 
+cioè 140. & questo butta trasversalmente al 100. & senza 
+mover lo Strumento, piglia subito pur trasversalmente la distanza 
+trà li punti 106. che è il 100. con l'interesse, & torna di nuovo ad 
+aprir lo Strumento, & questo intervallo, ch' ultimamente pigliasti 
+col Compasso, ributtalo al 100. & aprendo un poco più il Compasso, 
+piglia trasversalmente la distanza trà li punti 106. & di nuovo 
+aperto un poco più lo Strumento, butta questa distanza pur 
+hora trovata al 100. & aprendo il Compasso, piglia il 106. & in 
+somma và replicando questa medesima operatione tante volte, 
+quanto è il numero de gli anni del merito, & essendo, nel presente 
+essempio, il merito per anni cinque, devi reiterar l' operatione cinque 
+volte; Et in ultimo misurando rettamente l'intervallo ch' haverai 
+preso, troverai comprender punti 187. e un terzo, & tanti scudi 
+
+
+saranno doventati li 140. posti da principio col guadagno de i sei 
+per cento, nello spatio di anni cinque, & nota, che se ti tornasse 
+più comodo di servirti in cambio del 100. & 106. del 200. & 212. 
+come spesse volte occorrerà, il medesimo sarà ritrovato. 
+L'altro modo di operare, non richiede altra mutatione nello 
+Strumento, che un solo primo accomodamento, & procedesi così. 
+Servendoci del medesimo quesito posto sopra; per aggiustar 
+lo Strumento, piglia 100. col suo primo interesse, cioè 106. rettamente,
+& aperto lo Strumento applicalo trasversalmente al 100. 
+ne mai più moverai lo Strumento; piglia poi trasversalmente la 
+somma de i danari proposta, che fu 140. & misurala rettamente, & 
+vederai già il guadagno del primo anno esser 148. e due quinti, 
+comprendendo però anche il capitale. Per trovar il secondo anno, 
+piglia trasversalmente questo 148. e due quinti, & senz'altro misuralo 
+rettamente, & troverai 157. e un terzo, per il secondo anno. 
+Piglia poi questo medesimo numero 157. e un terzo, trasversalmente, 
+e torna à misurarlo rettamente, & troverai 166. e tre quarti, 
+per il capitale, & guadagno del terzo anno. Torna à pigliar questo 
+166. e tre quarti, trasversalmente, & misuralo rettamente, & haverai 
+per il quarto anno 176. e tre quarti. Finalmente piglia questo 
+trasversalmente, & torna à misurarlo rettamente, & haverai per 
+il quinto anno trà caipitale, & guadagno 186. e un terzo. Et così
+volendo per più anni andrai replicando l'operatione. Et nota, 
+che quando il primo capitale proposto fusse somma tale, che eccedesse 
+il numero de i punti 250. segnati sopra le linee Aritmetiche, 
+devi operare à pezzi, pigliando la metà, il terzo, il quarto, 
+il quinto, ò altra parte della somma proposta, che in 
+fine pigliando due, tre, quattro, ò cinque, ò
+più volte, quello che trovi; verrai in 
+cognitione di quello, che 
+desideri.
+
+
+DELLE LINEE 
+GEOMETRICHE, 
+CHE SEGUONO APPRESSO, ET LORO USI; 
+Et prima come col mezo di esse possiamo crescere ò diminuire
+in qualunque data proportione tutte le figure superficiali. 
+Operatione VIII. 
+Le linee che seguono appresso le Aritmetiche di 
+sopra dichiarate sono dette linee Geometriche; 
+per esser divise secondo la Geometrica proportione 
+procedente sino al 50. dalle quali trarremo 
+diverse utilità; & prima ci serviranno per trovar il 
+lato di una figura superficiale, che ad un'altra proposta 
+abbia una data proportione; come saria per essempio sendoci 
+proposto il triangolo ABC. vogliamo trovar il lato di un 
+altro che ad esso habbia proportione sesquialtera; Piglinsi due numeri 
+nella data proporzione, & siano per essempio 12. & 8. & presa 
+con un Compasso la linea BC. adattisi aprendo lo Strumento
+
+
+alli punti delle linee Geometriche 8. 8. & senza punto muover 
+l' apertµra, prendasi l' intervallo trà li punti 12. 12. perche se faremo 
+una linea di tal grandezza lato di un triangolo, rispondente 
+alla linea BC. sarà la sua superficie indubitatamente sesquialtera 
+del triangolo ABC. & questo medesimo intendasi di ogn'altra 
+sorte di figura, & delli cerchi ancora faremo questo medesimo, servendoci 
+delli loro diametri ò semidiametri, come de i lati delle figure 
+rettilinee. Et notisi per le persone più vulgari che la presente operatione 
+è quella che c'insegna crescere ò diminuire tutte le piante 
+superficiali, come v. g. havendo una pianta, la quale contiene per essempio, 
+10. campi di terreno, ne vorremmo disegnare una, che ne contenesse 
+34. piglia qualunque linea della pianta di 10. campi, & applicala 
+trasversalmente alli punti 10. delle presenti linee Geometriche, 
+& senza più muover lo Strumento, prendi l' intervallo trasversale 
+trà li punti 34. delle medesime linee, & sopra una tal lunghezza 
+descrivi la tua pianta simile alla prima, secondo la regola, che di sopra 
+nella terza operatione fù insegnato, & haverai la pianta cercata
+capace precisamente di 34. campi. 
+COME CON L' ISTESSE LlNEE POSSIAMO
+trovare la proportione trà due figure superficiali trà di
+loro simili. Operatione IX. 
+Sianci per essempio proposti li due quadrati AB. overo 
+qualunque due altre figure, delle quali le due medesime 
+linee AB. siano lati homologhi; volendo trovar 
+qual proportione habbino trà di loro le dette superficie, 
+prendasi con un Compasso la linea B. la quale aprendo lo Strumento 
+si applichi à qual si voglia punto di esse linee Geometriche, 
+& sia per essempio al 20. dipoi non movendo lo Strumento, prendasi 
+col Compasso la linea A. & questa applicata alle linee Geometriche, 
+veggasi à che numero si adatti, & trovato v. g. che si aggiusti 
+al numero 10. dirai la proportione delle due figure esser quella, 
+che hà 20. à 10. cioè doppia; & quando la grandezza di questa 
+linea non si accomodasse precisamente ad alcuna delle divisioni, 
+dobbiamo rinovare l'operatione, & applicando ad altri punti, che 
+
+
+alli 20. tentare sin tanto che l'altra linea ancora esattamente si 
+accomodi à qualche punto, il che trovato, sapremo consequentemente 
+la proportione delle due figure assegnateci, per esser lei sempre 
+la medesima, che quella de i numeri delli due punti, alli quali 
+le dette linee, nella medesima apertura dello Strumento si accomodano. 
+Et quando dell' una delle due Piante proposteci fusse data 
+la capacità si troverà il contenuto dell' altra nel medesimo modo; 
+come per essempio. Essendo la Pianta della linea B. 30. campi, si c
+erca quanto saria la Pianta A. accomoda la linea B. trasversalmente 
+alli punti 30. & vedi poi a qual numero si adatti pur trasversalmente
+la linea A, & tanti campi dirai contenere la pianta di essa 
+linea A.
+COME SI POSSA COSTITUIRE UNA FIGURA 
+superficiale simile, & eguale à molte altre simili proposteci.
+Operatione X.
+Sianci per essempio proposte tre figure simili, delle quali 
+li lati homologhi siano le linee ABC. alle quali se ne 
+debba trovar una sola eguale, & pure ad esse simile; prendi 
+col Compasso la lunghezza della linea C. & questa
+aperto lo Strumento applicherai a qual numero più ti piace delle 
+linee Geometriche, & sia v. g. applicata alli punti 12. 12. dipoi lasciato 
+lo Strumento in tal sito prendi la linea B. & vedi à che numero 
+
+
+delle medesime linee si accomodi, che sia per essempio al 9.
+& perche l'altra si era aggiustata al 12. congiugnerai questi due numeri 
+9. e 12. insieme, & terrai à memoria 21. piglia dipoi la terza 
+linea A. & secondo il medesimo ordine considera à qual numero 
+delle medesime linee trasversalmente si adatti, & trovato v. g. adattarsi 
+al 6. aggiugnerai 6. al 21. che salvasti, & haverai in tutto 27. 
+Piglia dunque la distanza trasversale trà li punti 27. & haverai la 
+linea D. sopra la quale facendo una figura simile à le altre 3 proposte, 
+sarà ancora di grandezza alle medesime tre insieme eguale. Et 
+col medesimo ordine ne potrai ridurre in una sola quante ne venissero 
+proposte, pur che le proposte siano tutte simili trà di loro.
+PROPOSTE DUE FIGURE SIMILI E DISEGUALI, 
+trovar la terza simile & eguale alla differenza delle due
+proposte. Operatione Xl.
+La presente 
+operatione 
+è il converso 
+della già 
+dichiarata 
+nel precedente capitolo,
+& la sua operatione sarà 
+in tal guisa. Sianci per
+essempio proposti 2. cerchi 
+diseguali, & del maggiore 
+sia diametro la linea 
+AA. & del minore la 
+
+
+BB. volendo trovar il semidiametro del cerchio eguale alla differenza 
+delli due AB. prendi con un Compasso la lunghezza della 
+linea maggiore A. & applicala aprendo lo Strumento à qual 
+punto più ti piacerà delle linee Geometriche, & sia per essempio applicata 
+al numero 20. & non movendo lo Strumento, considera à
+qual punto delle medesime linee si aggiusta la linea B. & trovato
+per essempio accomodarsi al numero 8. sottratto questo di 20. resterà 
+12. & presa la distanza trà li punti 12.12. haverai la linea C. 
+il cui cerchio sarà eguale alla differenza delli due AB. & quello che 
+si è assemplificato ne i cerchi per via de i loro semidiametri intendasi 
+esser l'istesso nelle altre figure simili, operando con uno de i 
+loro lati homologhi.
+ESTRAZIONE DELLA RADICE QUADRATA
+con l'aiuto delle medesime linee.
+Operatione XII.
+Tre differenti modi di operare nell'estrazion della 
+radice quadrata saranno nel presente capitolo dichiarati, 
+uno per li numeri mediocri, uno per li 
+grandi, & il terzo per li piccioli, intendendo per 
+i numeri mediocri, quelli che sono, tanto nel meno, 
+quanto nel più intorno al 5000. maggiori 
+quelli che sono intorno al 50000. minimi quelli che sono intorno 
+al 100. & prima faremo principio da i numeri mediocri. Per estrar 
+dunque, & trovar la radice quadrata di un numero mezano proposto, 
+prima devesi aggiustar lo Strumento, la qual cosa sarà con l'accomodare 
+trasversalmente al 16. delle linee Geometriche lo spatio
+di 40. punti, preso rettamente dalle linee Aritmetiche; dipoi 
+del numero proposto leva via le due ultime figure, che dinotano 
+le unità, & le decine; & quel numero che resta, prendi trasversalmente 
+dalle linee Geometriche, & misuralo rettamente sopra le 
+Aritmetiche, & quello che trovi sarà la radice quadrata del numero 
+proposto. Come per essempio, volendo la radice di questo 
+numero 4630. levate le due ultime figure, cioè il 30. resta 46. 
+però piglierai trasversalmente 46. dalle linee Geometriche
+
+
+& lo misurerai rettamente sopra le Aritmetiche, & lo troverai contenere 
+punti 68. che è la prossima radice cercata.
+Mà sono in questa regola, da notarsi due cose; la prima è, che
+quando le due ultime figure, che si levano, passassero 50. devi al 
+numero che resta aggiungere uno; Come se v. g. volessi pigliare la 
+radice di 4192. perche il 92. dà levarsi passa 50. in luogo del 41. 
+che restava, devi prendere 42. & nel resto seguire la regola di sopra.
+L'altra cautela, che si deve osservare è, che quando quello che
+resta detratte le due ultime figure, passasse 50. in tal caso, poi che la 
+divisione delle linee Geometriche non si astende oltre al 50. si deve
+del numero che resta prendere la metà, overo altra parte, & questa
+distanza presa, si deve Geometricamente raddoppiare, ò secondo 
+il numero della detta parte multiplicare; & quell'ultimo intervallo 
+così multiplicato, misurato rettamente sopra le linee Aritmetiche, 
+ti darà la radice che cerchi. Come per essempio, vogliamo la 
+radice di 8412. aggiustato come è detto lo Strumento, & detratte 
+le due ultime figure resta 84. il qual numero non è sopra le linee 
+Geometriche; però piglierai la sua metà, cioè 42. preso dunque lo 
+spatio trasversale trà li punti 42. bisognerà che Geometricamente 
+sia raddoppiato, il che farai con aprir più lo Strumento sin tanto 
+che il detto spatio si adatti à qualche numero, del quale sopra le 
+medesime linee ve ne sia uno doppio, come v. g. saria adattandolo 
+al 20. pigliando poi l'intervallo trà li punti 40. il quale misurato 
+finalmente sopra le Linee Aritmetiche, ti mostrerà 91. e due terzi, 
+in circa, prossima radice del numero 8412. proposto. Et se ti fusse 
+bisognato del numero dato pigliare la terza parte, nel triplicarla 
+poi Geometricamente, l'applicherai trasversalmente ad un numero 
+delle linee Geometriche, del quale ve ne sia un altro triplo, come 
+saria al 10. per pigliare il 30. ò al 12. per pigliar il 36.
+Quanto al modo di procedere per i numeri maggiori, non si 
+haverà altra differenza dal modo precedente, se non nell'aggiustar 
+lo Strumento, & nel levar dal dato numero le tre ultime note;
+& l'aggiustar lo Strumento si farà pigliando 100. rettamente dalle 
+linee Aritmetiche, aggiustandolo poi trasversalmente alli punti 
+10. 10. delle Geometriche: il che fatto volendo v. g. la radice quadrata 
+di 32140. tolte le tre ultime figure, resta 32. & questo piglierai 
+
+
+trasversalmente dalle linee Geometriche, che misurato rettamente 
+sopra le Aritmetiche ti mostrerà 179. prossima radice di 
+32140. avvertendo che l'istesse cautele notate nell'operazione precedente, 
+si devono per l'appunto osservare in questa, cioè che quando 
+le tre figure che si detraggono passano 500. si hà da aggiunger'
+uno à quello che resta; & se quel che resta passa 50. se ne pigliarà 
+una parte, cioè la metà ò il terzo, &c. dupplicando, ò triplicando
+al modo dichiarato quello che haverai per la detta parte preso.
+Per li numeri minori aggiusterai lo Strumento, secondo il primo
+modo, cioè con buttare 40. à 16. pigliando poi trasversalmente dalle
+linee Geometriche il numero proposto senza levarne figura alcuna,
+perche misurando rettamente il detto spatio sopra le linee Geometriche,
+troverai la radice cercata in numero intero, & in frazione;
+mà nota che le decine delle linee Aritmetiche ti devono servire per 
+unità, & le unità per decimi di unità. Come per essempio vogliamo 
+la radice di 30. aggiusta lo Strumento come è detto, buttando 
+40. preso dalle linee Aritmetiche rettamente al 16. delle Geometriche 
+trasversalmente, dalle quali preso transversalmente la distanza 
+delli punti 30. misurandola rettamente sopra le Aritmetiche, troverai 
+punti 55. che importano 5 interi, & 5. decimi cioè 5. e mezo
+quanta è la prossima radice di 30. avvertendo che in questa regola 
+ancora si devono osservare li avvertimenti, & cauzioni nelle altre 
+due regole insegnate.
+REGOLA PER LE ORDINANZE DE GLI 
+esserciti di fronte, & fianco diseguali.
+Per le ordinanze di fronte eguale al fianco ci servirà
+come è manifesto l'estrarre la radice quadrata 
+del numero de i soldati propostoci. Mà quando 
+volessimo formare un'ordinanza, con una moltitudine 
+assegnata di soldati, della quale la fronte,
+& il fianco non fussero eguali; mà si rispondessero 
+in una data proporzione, Allora, per risolvere il quesito, ci bisogna 
+in altra maniera procedere, operando nel modo, che nel seguente 
+essempio si dichiara.
+
+
+Sendoci dunque ordinato, che ritroviamo la fronte, & il fianco
+di 4335. soldati messi in ordinanza in maniera, che per ogni cinque
+che saranno nella fronte, ne siano 3. nel fianco; Allora, per conseguir
+l'intento con l'aiuto del nostro Strumento, prima considerando 
+i numeri della proportione assegnataci esser 5. e 3. aggiungendo 
+à ciascuno di loro un, o, fingeremo che importino 50. & 30. & 
+per trovar la fronte, prenderemo rettamente con un Compasso 
+50. dalle linee Aritmetiche, & quest'intervallo accomoderemo 
+trasversalmente alle linee Geometriche, & à quel numero, che si 
+produce dalla moltiplicatione trà di loro de i numeri della proporzione 
+assegnata, cioè (nel presente essempio) al 15. & lasciato lo 
+Strumento in tale stato, si prenderà trasversalmente pur nelle medesime 
+linee Geometriche, la distanza trà li punti segnati dal numero 
+che resta, detratte le decine & unità dal numero de i soldati 
+propostoci, che nel presente essempio è 43. & misurato tale intervallo 
+rettamente sopra le linee Aritmetiche, ci darà la fronte di tale 
+ordinanza, che sarà soldati 85. & col medesimo ordine troveremo
+il fianco pigliando rettamente 30. dalle linee Aritmetiche, & 
+buttandolo trasversalmente al 15. delle Geometriche, & da esse 
+immediatamente pigliando, pur trasversalmente, l'intervallo trà li 
+punti 43. 43. il quale misurato rettamente sopra le linee Aritmetiche
+ci darà 51. per il fianco, & il medesimo ordine si terrà in ogni 
+altra moltitudine di soldati, & in qualunque altra proportione assegnataci;
+avvertendo, che si come si disse nella radice quadrata, 
+quando le unità, & decine che si levano dal numero proposto,
+passassero 50. si deve alle centinaia, che restano aggiugnere uno di 
+più &c. Nè voglio tacere come trovata che si sarà la fronte, secondo 
+la regola già dichiarata, si potria con altra regola più spedita, 
+& con le sole linee Aritmetiche trovar il fianco in questa forma operando; 
+Già nell' essempio addotto fu trovato 85. per la fronte, 
+& furno i numeri della proportione 5. & 3. che è quanto se si dicesse 
+50. e 30. overo 100. & 60. &c. però quello 85. preso rettamente 
+dalle linee Aritmetiche accomodisi trasversalmente al 100. delle 
+medesime, & piglisi immediatamente l'intervallo pur trasversale
+trà li punti 60. 60. delle medesime linee, il quale misurato rettamente
+ci mostrerà il medesimo numero 51. che nell'altra maniera di
+
+
+operare fu ritrovato, & questa operatione, che sotto l' essempio 
+delle ordinanze, haviamo dichiarata, intendasi esser la regola di 
+uno de i Capitoli di Algebra, cioè de i censi eguali al numero, onde 
+tutti i quesiti che per esso si risolvono, si scioglieranno anco, operando 
+col nostro Strumento nella maniera già dichiarata.
+INVENZIONE DELLA MEDIA PROPORTIONALE 
+per via delle medesime linee.
+Operatione XIIII.
+Con l' aiuto di queste linee, & loro divisioni, potremo 
+trà due linee, overo due numeri dati trovare con 
+gran facilità la linea ò il numero medio proportionale 
+in questa maniera; Siano li due numeri, overo
+le due linee misurate proposteci, l'uno 36. & 
+l'altro 16. & presa col Compasso la lunghezza dell'una v. g. della 
+36. applicala aprendo lo Strumento, alli punti 36. delle linee Geometriche, 
+& non movendo lo
+Strumento, prendi l'intervallo
+trà li punti 16. 16. delle 
+medesime linee, il quale misurato
+sopra la medesma scala
+troverai esser punti 24. quanto appunto è il numero proportionale 
+trà 36. & 16. & nota che per misurar le linee proposte, potremo 
+servirci non solo della scala notata sopra lo Strumento, mà 
+di qualunque altra ancora, quando quella dello Strumento fusse 
+troppo piccola per il nostro bisogno.
+Notando in oltre, che quando le linee, & i numeri che le misurano
+trà li quali vogliamo trovare il medio proportionale, fussero 
+assai grandi, siche passassero il 50. che è il maggiore numero 
+notato sopra le nostre linee Geometriche, si potrà nondimeno 
+conseguir l'intento operando con parti de i proposti numeri
+ò con altri minori di essi mà che habbino la medesima proportione, 
+che hanno li primi, & la regola sarà in questo modo. Vogliamo
+verbi gratia, pigliare il numero medio proportionale frà 144. & 
+81. li quali eccedono ambidue il cinquanta. Piglisi dalle linee 
+
+
+Aritmetiche 144. rettamente per applicarlo trasversalmente alle 
+linee Geometriche; mà perche in esse non vi è numero così grande, 
+piglierò imaginariamente una parte di esso numero 144. come 
+saria v. g. il terzo, cioè 48. & l'intervallo già preso applicherò trasversalmente 
+alli punti 48. delle linee Geometriche. Dipoi 
+imaginata la terza parte di 81. che fù l'altro numero 
+dato, la quale è 27. piglierò tal numero pur 
+trasversalmente dalle medesime 
+linee Geometriche,
+& questo, 
+misurato rettamente sopra le Aritmetiche, 
+mi darà il medio proportionale 
+ricercato, cioè 
+108.
+
+
+DELLE LINEE 
+STEREOMETRICHE
+E PRIMA 
+COME COL MEZO DI ESSE SI POSSlN' CRESCERE,
+ò diminuire li corpi solidi simili secondo la data
+proportione. Operatione XV.
+Sono le presenti linee Stereometriche così dette, per esser 
+la lor divisione, secondo la proportione de i corpi 
+solidi, sino à 148. e da esse trarremo molti usi, il primo 
+de i quali sarà il già proposto, cioè come dato un lato 
+di qual si voglia corpo solido si possa trovare il lato d' un altro, che 
+ad esso habbia una data proportione; come per essempio, sia la linea 
+A. diametro v. g. d' una sfera, ò palla per dirlo più vulgarmente;
+ò vero lato d'un cubo, ò altro solido, & siaci proposto di dover
+trovar il diametro, ò lato d' un altro, che à quello habbia la proportione 
+che hà 20. à 36. piglia col Compasso la linea A. & aprendo 
+lo Strumento applicala al punto 36. delle linee Stereometriche,
+il che fatto prendi immediatamente l'intervallo trà li punti 20. 20.
+che sarà la linea B. diametro, ò lato del solido all'altro, il cui lato A.
+nella proportione data di 20. à 36.
+PROPOSTI DUE SOLIDI SIMILI, TROVARE 
+qual Proportione habbino frà di loro. Oper. XVI.
+Non è la presente operatione molto differente dalle dichiarate 
+di sopra, & puossi con gran facilità risolvere. Quando dunque 
+ci venissero proposte le due linee. AB. & dimandato qual proportione 
+
+
+habbino frà di loro i lor solidi simili, prenderemo una di 
+esse col Compasso, & sia v. g. presa l'A. la quale applicheremo aprendo 
+lo Strumento,à qualche numero delle presenti linee, & sia applicata.
+v. g. al 50. 50. & subito presa la lunghezza dell'altra linea 
+B. veggasi à qual numero si accomodi, & trovato adattarsi per 
+essempio al 21. diremo il solido A. al solido B. havere la proportione 
+di 50. à 21.
+PROPOSTI SOLIDI SIMILI QUANTI NE 
+piacerà trovarne un solo eguale à tutti quelli.
+Operatione XVll.
+Siano proposte le tre linee ABC. lati di trè solidi simili,
+vogliamo trovarne uno eguale à tutti quelli; per ilche 
+fare, prendasi con un Compasso la linea A. quale 
+s'applichi à qualche punto delle linee Stereometriche, 
+& sia, per essempio al punto 30. & non movendo lo Strumento
+considera à qual 
+numero s'adatti la 
+linea B. & trovato per 
+essempio adattarsi al 12.
+aggiugni questo numero al 
+numero 30. già detto, fà 42. il 
+qual numero terrai a memoria; presa
+dipoi con un Compasso la linea C. considera 
+à qual numero delle medesime linee 
+s'accomodi, & sia per essempio al 6. & congiunto 
+questo numero con l'altro 42. haveremo 48. siche pigliando 
+l'intervallo trà li punti 48. 48. sarà trovata la linea D. il cui solido 
+sarà eguale alli trè proposti ABC.
+
+
+ESTRAZIONE DELLA RADICE CUBA.
+Operatione XVIII.
+Due modi differenti dichiareremo per l'investigazione della 
+Radice Cuba di qualunque proposto numero: Il 
+primo ci servirà per i numeri mediocri, & l'altro per i 
+massimi: intendendo per numeri mediocri quelli da i 
+quali tratte le unità, decine, & centinaia li numeri che restano non 
+eccedono il 148. per l'estrazione della radice Cuba de i quali, prima 
+s'aggiusterà lo Strumento, con l' applicare trasversalmente alli 
+punti 64. delle linee Stereometriche il 40. preso rettamente dalle 
+linee Aritmetiche: & fatto questo, leva le 3. ultime note dal numero 
+proposto, & piglia quel che resta dalle linee Stereòmetriche 
+trasversalmente, & misuralo rettamente sopra le Aritmetiche, &
+quello che trovi sarà la radice Cuba del numero proposto; Come,
+v. g. cerchiamo la radice Cuba di 80216. aggiustato come s'è detto
+lo Strumento, e tolte via le tre ultime note resta 80. piglia dunque
+trasversalmente 80. dalle linee Stereometriche, & misuralo 
+rettamente sopra le Aritmetiche, e troverai 43. quanta è la radice 
+prossima del dato numero, & nota; che quando detratte le trè ultime 
+note, restasse più di 148. che è il maggior numero delle Stereometriche, 
+allora potrai operare per parti. Come per essempio 
+si cerca la radice Cuba di 185840, & perche detratte le ultime 3 note 
+840. resta 186. (dico 186. ben che resti 185. perche le centinaia delle 
+3. note detratte sono più di 5. cioè più di mezo migliaio onde, 
+pigliandolo per un migliaio intero fò, che quel che resta sia 186. cioè 
+uno di più) che eccede il 148. piglieremo la sua metà, cioè 93. trasversalmente 
+dalle Stereometriche già aggiustate, & questo spazio 
+preso si doverà Stereometricamente duplicare, cioè applicarlo à 
+qualche numero delle medesime Stereometriche trasversalmente del 
+qual ne sia uno doppio, & questo preso pur trasversalmente, & misuratolo 
+sopra la scala Aritmetica, sarà la radice che si cercava. 
+Stando dunque nell'esempio proposto, applicheremo lo spazio, trà li 
+punti 93. già preso v. g. al 40. delle linee Stereometriche pigliando poi 
+l' 80. che misurato sopra le linee Aritmetiche ci mostrerà 57. ch' è la prossima radice 
+del numero proposto. L' altro modo di operare per li numeri massimi sarà 
+
+
+con aggiustare lo Strumento applicando la distanza di 100. punti
+presa rettamente dalle linee Aritmetiche al 100. delle Stereometriche 
+trasversalmente, & sarà aggiustato. Dipoi dal proposto numero 
+devi levare le quattro ultime note, & il numero, che resta 
+prendere trasversalmente da esse linee Stereometriche, & misurarlo 
+rettamente sopra le Aritmetiche; come per essempio sendoci proposto 
+il numero 1404988. havendo già aggiustato lo Strumento al 
+modo detto, & detratte le quattro ultime note, resta 140. il qual 
+numero preso trasversalmente dalle linee Stereometriche, & misurato 
+rettamente sopra l'Aritmetiche ci darà 112. radice prossima del 
+numero proposto. non ci scordando, che quando le tre note rimanenti 
+importassero più di 148. numero maggiore delle nostre linee, 
+si deve operare per parti, come nell'altra regola superiore fù 
+avvertito.
+INVENZIONE DELLE DUE MEDIE PROPORZIONALI.
+Operazione XlX.
+Quando ci fussero proposti due numeri, ò 
+due linee misurate, trà le quali dovessimo 
+trovare due altre medie proportionali
+potremo ciò esseguire facilmente col mezo delle 
+presenti linee, & ciò con questo essempio si farà 
+chiaro. Dove ci vengono proposte le 
+due linee A. D. delle quali l' una sia per 
+essempio 108. & l' altra 32. & presa 
+la maggiore con un Compasso
+adattisi aperto lo Strumento alli numeri
+108. 108. & poi prendasi l'intervallo 
+trà li punti 32. 32. il quale sarà
+la lunghezza della seconda linea 
+B. che misurata con la medesima scala, 
+con la quale furono misurate le
+proposte linee si troverà esser 72, & 
+per trovarne la terza linea C. adattisi pure di nuovo sopra le medesime
+linee Stereometriche, la linea B. alli punti 108. 108. & tornisi 
+
+
+di nuovo à pigliare la distanza trà li punti 32. 32. che tale sarà 
+la grandezza della terza linea C. & misurata sopra la medesima 
+scala si troverà essere punti 48. & notisi, che non è necessario il 
+prender prima la maggior linea, più che la minore, mà nell'uno,
+& nell'altro modo operando sempre si troverà l'istesso.
+COME OGNI SOLIDO PARALLELEPIPEDO 
+si possa col mezo delle linee Stereometriche ridurre in
+Cubo. Operatione XX.
+Siaci proposto il solido parallelepipedo, le cui dimensioni 
+siano diseguali, cioè 72. 32. &84. Cercasi il lato 
+del Cubo ad esso eguale. Piglia il medio proportionale 
+frà 72. & 32. nel modo dichiarato di sopra nell'Operazione 14. 
+Cioè piglia 72. rettamente dalla scala Aritmetica, e buttalo trasversalmente 
+al 72. delle linee Geometriche, ma perche non vanno 
+tant' oltre buttalo alla metà, cioè al 36. & subito prendi pur trasversalmente 
+l' altro numero dalle medesime linee, cioè 32. anzi 
+pur per dir meglio piglia la sua metà, cioè il 16. (havendo buttato 
+il primo 72. alla sua metà parimente) & questo che troverai sarà come 
+è manifesto il numero medio proportionale trà 72. & 32.
+misuralo dunque sopra le linee Aritmetiche, & lo troverai esser 
+48. Onde lo butterai trasversalmente à questo medesimo numero 
+48. delle linee Stereometriche, & senza muovere poi lo Strumento 
+prendi pur trasversalmente il terzo numero del solido proposto, 
+cioè l' 84. & sarà finita l'operatione, perche facendo 
+questa tal linea lato di un Cubo quello sarà veramente 
+eguale al solido proposto, & misurandola 
+sopra la scala Arithmetica
+la troverai 
+esser
+57. & mezo, in 
+circa.
+
+
+ESPLICATIONE 
+DELLE LINEE 
+METALLICHE
+Notate appresso le Stereometriche. Operatione XXI.
+Sono le presenti linee segnate con alcune divisioni alle 
+quali sono aggiunti questi caratteri: Or, Pi, Ar. Ra. 
+Fe, St. Ma. Pie. Che significano Oro, Piombo, Argento, 
+Rame, Ferro, Stagno, Marmo, Pietra, dalle 
+quali si hanno le proporzioni, e differenze di peso, che si trovano
+frà le materie in esse notate, in guisa che costituito lo Strumento 
+in qual si voglia apertura gl' intervalli, che cascano frà i punti l'uno 
+all'altro corrispondenti vengono ad esser diametri di palle, ò lati 
+d'altri corpi trà loro simili, & eguali di peso; cioè che tanto sarà il 
+peso d'una palla d'oro, il cui diametro sia eguale alla distanza Or. 
+Or. quanto d'una di Piombo, il cui diametro sia l'intervallo trà li 
+punti Pi. Pi., ò una di Marmo, il cui diametro sia la distanza trà li 
+punti Ma. Ma. Dalche possiamo in un'istante venir' in cognizione
+quanto grande si doveria far un corpo d'una delle sopranotate 
+materie, acciò fosse in peso eguale ad un'altro simile, mà di altra 
+delle materie dette, la qual operazione addimanderemo trasmutazione 
+della materia, come se per essempio la linea A. fosse diametro 
+d'una palla di stagno, & noi volessimo trovare il Diametro 
+d'un' altra d' oro, à quella in peso eguale; prenderemo con un Compasso 
+la linea A, & questa applicata, aprendo lo Strumento alli 
+punti St. St. 
+piglieremo 
+immediate
+l' intervallo 
+trà li punti 
+Or. Or. & tale sarà il Diametro della palla di Oro, cioè la linea B.
+eguale all' altra di stagno, & il medesimo intendasi di tutti gli altri 
+
+
+corpi solidi, & delle altre materie notate. Ma se congiugneremo 
+l' uso di queste linee con quello delle precedenti ne caveremo molte 
+comodità maggiori come di sotto si dichiarerà, & prima 
+CON LE LINEE PREDETTE POTREMO RITROVAR 
+la proporzione, che hanno in peso trà di loro tutti li
+metalli, & altre materie nelle linee Metalliche notate.
+Oper. XXII.
+Vogliamo per essempio trovare qual proporzione
+habbino frà di loro in peso questi due Metalli Argento,
+& Oro; prendi con un Compasso la distanza 
+trà 'l centro dello Strumento, & il punto notato 
+Ar. & questa, aperto lo Strumento, applica à qual 
+più ti piace de i numeri delle linee Stereometriche, 
+& sia per essempio applicata alli punti 100. 100. dipoi, senza punto 
+muover lo Strumento, piglia la distanza trà 'l centro del medesimo 
+Strumento, & il punto, Or. & questa vedi à che numero s'accomodi 
+sopra le linee Stereometriche. & trovato per essempio adattarsi 
+alli punti 60.60. dirai la proporzione del peso dell'oro, à 
+quello dell' argento esser in spezie, come 100. à 60. Et nota, che nell' 
+operare li diametri presi, & applicati alle linee Stereometriche ti 
+mostreranno la proporzione in peso de i loro metalli permutatamente,
+cioè, come, nell'addotto essempio s'è veduto, dal diametro
+dell' argento ti viene denotato il peso dell' oro, & da quello dell'
+oro il peso dell'argento; & così venghiamo ad intendere come  
+l'oro è più grave dell'argento à ragione di 40. per 100. essendo, 
+che 40. è la differenza trà li due pesi ritrovati per l'oro, & per l'argento.
+Dalche possiamo venir in cognizione della resoluzione d'un 
+quesito molto bello, che è, propostaci qual si voglia figura di una 
+delle materie notate nelle linee Metalliche, trovare quanta di un'
+altra delle dette materie ve ne bisognerà per formarne un'altra à 
+quella eguale. Come v. g. habbiamo una Statua di marmo, vorremmo 
+sapere quanto argento v' anderia per farne una della medesima 
+grandezza; per ilche trovare, farai pesare quella di marmo, 
+& sia il suo peso v. g. 25. libre, poi piglia la distanza trà 'l centro 
+
+
+dello Strumento, & il punto Ar. che è la materia della statua futura, 
+& questo applicherai aprendo lo Strumento alle linee Stereometriche, 
+& al punto segnato col numero del peso della statuetta, 
+cioè alli punti 25. 25. & non movendo lo Strumento piglierai 
+la distanza trà 'l centro, & il punto Ma. & questa vedrai à che 
+numero pur trasversalmente delle linee Stereometriche si accomodi,
+& trovato come s' adatta alli punti 96. 96. dirai 96. libre d'argento 
+esser necessarie per fare la statua eguale in grandezza all' altra 
+di Marmo.
+CONGlUGNENDO GLI USI DELLE LINEE 
+Metalliche, & Stereometriche, dati due lati di due solidi simili,
+& di diverse materie trovare qual proporzione
+habbino frà di loro detti solidi in peso. Oper. XXIII.
+È la linea A. diametro d' una palla di Rame, e la B. diametro 
+di una di Ferro, vorremmo sapere qual proporzione 
+hanno fra di loro in peso, prendi col Compasso la linea A.
+& 
+aperto lo 
+Strumento 
+applicala 
+alli punti delle 
+linee Metalliche 
+segnati 
+Ra. Ra. & senza alterare tal apertura prendi immediatamente la 
+distanza trà li punti Fe. Fe. che sarà quanto la linea X. la quale se 
+sarà eguale alla B. diremo li due solidi A. B. essere di peso eguali, 
+mà trovata la X. diseguale alla B. & essendo diametro d'una palla 
+di ferro eguale in peso all' A. è manifesta cosa, che la medesima 
+differenza sarà trà le due palle A, B. che è trà l'X . B. & perche X. 
+& B. sono della medesima materia troverassi la loro differenza facilmente 
+con le linee Stereometriche, come di sopra nell'Oper. 16.
+s' è dichiarato, cioè prenderemo la linea X. & l'applicheremo aprendo 
+lo Strumento à qualche numero, come v. g. al 30. il che fatto si 
+
+
+considererà a quale s'aggiusti la linea B. & trovato per essempio 
+accomodarsi al 10. diremo la palla di Rame A. esser tripla della 
+di Ferro B.
+Il converso della precedente operazione si potrà con pari facilità
+con le medesime linee ritrovare; cioè; come; dato il peso, & il 
+diametro, ò lato d'una palla, ò altro solido di una delle materie 
+notate sopra lo Strumento, si possa trovare la grandezza d' un altro 
+solido simile, & di qualunque altra delle dette materie, & che 
+pesi qual si voglia peso propostoci. Come per essempio, essendo 
+la linea X. Diametro d'una palla di Marmo che pesa 7. libre, trovisi 
+il diametro d' una di Piombo, che ne pesi 20. Qui si vede come 
+doviamo fare due operazioni, l'una trasmutare il Marmo, in Piombo,
+& l' altra crescere il peso di 7. sino al 20. La prima operazione 
+si farà con le linee Metalliche, accomodando il Diametro X. alli 
+punti del Marmo trasversalmente, pigliando poi senza muover lo 
+Strumento l'intervallo trà li punti del Piombo, che sarà la grandezza 
+del solido di Piombo, che peserebbe quanto il proposto di 
+Marmo, cioè libre 7. ma perche volevamo libre 20. ricorreremo
+all'aiuto delle linee Stereometriche, & applicato questo intervallo
+trasversalmente alli punti 7. 7. prenderemo subito la distanza
+pur trasversale trà li punti 20. che sarà eguale alla linea D. la quale
+senza dubio verrà ad esser il lato della figura solida di Piombo, 
+che peserà libre 20.
+COME QUESTE LINEE CI SERVONO PER
+calibro da Bombardieri accomodato universalmente à
+tutte le palle di qual si voglia materia, & à tutti
+li pesi. Oper. XXIIII.
+Manifestissima cosa è diverso esser il peso di diverse materie,
+& assai più grave esser il Ferro della Pietra, & il Piombo 
+del Ferro, dalche ne seguita, che dovendosi tirare 
+con l' artigliaria tall'hora palle di Pietra, altre volte 
+di Ferro, ò ancora di Piombo, il medesimo pezzo, che porti tanto di 
+palla di Piombo, porterà meno di Ferro, & molto meno di Pietra, 
+& che per conseguenza diverse cariche per le diverse palle se li 
+
+
+dovranno dare; laonde quelle sagome, ò colibri sopra i quali fussero 
+notati i diametri delle palle di Ferro con li pesi loro non potranno 
+servirci per le palle di Pietra, mà bisognerà che le misure di 
+detti diametri s' accreschino, ò diminuischino, secondo le diverse 
+materie. In oltre è manifesto, che appresso diversi paesi s'usano
+diversi pesi; anzi che non solamente in ogni provincia, mà quasi 
+in ogni Città sono differenti, dalche ne seguita, che quel Calibro, 
+che fusse accomodato al peso d'un luogo, non potrà servirne al peso 
+d'un altro, mà secondo che le libre saranno maggiori, ò minori in uno,
+ch' in un altro luogo bisognerà che le divisioni del calibro ottenghino
+maggiori, ò minori intervalli; dalche possiamo concludere che un 
+Calibro che si adatti ad ogni sorte di materia, & ad ogni differenza
+di peso bisogna che per necessità sia mutabile, cioè che si possa crescere,
+& diminuire, & tale apunto è quello, che nel nostro Strumento vien 
+segnato; perche aprendo più, ò meno si crescono, ò diminuiscono 
+gl' intervalli, che trà le divisioni d' esso si ritrovano senza punto alterar 
+le loro proporzioni, & havendo tali cose in universale dichiarate, 
+passeremo all' applicazione particolare di questo Calibro à tutte 
+le differenze di pesi, & à tutte le materie diverse; Et perche non 
+si può venir' in cognizione d'alcuna cosa ignota senza il mezo di 
+qualch' altra conosciuta, fa di mestiero, che ci sia noto un solo diametro 
+d'una palla di qual si voglia materia, & di qual si voglia peso 
+rispondente alle libre, che nel paese dove vogliamo usare lo Strumento 
+si costumano: dal qual solo diametro verremo, col mezo 
+del nostro Calibro in cognizione del peso di qual si voglia altra 
+palla, & di qualunque altra materia, intendendo però delle materie 
+sopra lo Strumento notate, & il modo di conseguir tal cognizione 
+faremo facilmente con un'esempio manifesto. Supponghiamo 
+v. g. esser in Venezia, & di voler quivi servirci del nostro Calibro 
+per riconoscer la portata d' alcuni pezzi d' artiglieria; prima 
+procureremo d'haver il diametro, & il peso di una palla di alcuna 
+delle materie sopra detto Strumento segnate; & per essempio supporremo 
+d'haver' il diametro d'una palla di Piombo di libre 10. 
+al peso di Venezia, il qual diametro noteremo con due punti nella 
+costa d'un' asta dello Strumento; quando dunque vorremo accomodare,
+& aggiustare il Calibro in maniera, che presa la bocca 
+
+
+d'un pezzo d'artiglieria, & trasportata sopra esso Calibro conosciamo 
+quante libre di palla di Piombo essa porti, non dovremo 
+far' altro salvo che prender col Compasso quel diametro di 10.
+libre di piombo già sopra la costa dello Strumento segnato, & aprir 
+poi lo Strumento tanto, che detto diametro s' aggiusti alli 
+punti delle linee Stereometriche segnati 10. 10. le quali così aggiustate
+ci serviranno per Calibro esattissimo, talche preso il diametro 
+della bocca di qual si voglia Artiglieria, & trasferitolo sopra detto 
+Calibro, dal numero de i punti a i quali s'adatterà conosceremo 
+quante libre di palla di piombo porti la detta Artiglieria.
+Mà se volessimo aggiustare lo Strumento, siche il Calibro rispondesse 
+alle palle di Ferro, allora prenderemo pur l'istesso diametro
+delle 10. libre di piombo sopra la costa notato, & dipoi l'applicheremo
+a i punti delle linee Metalliche segnati Pi. Pi. & senza alterare 
+lo Strumento piglieremo con un Compasso l'intervallo trà 
+i punti segnati Fe. Fe., il quale sarà il diametro d'una palla di ferro di 
+10. libre; & questo diametro, aprendo ln Strumento, s'applicherà
+à i punti delle linee Stereometriche segnati 10. 10. & allora saranno 
+dette linee esquisitamente accomodate per Calibro delle palle 
+di ferro, & con simile operazione si aggiusterà per le palle di pietra.
+Et notisi che occorrendoci notare sopra la costa dello Strumento
+diversi diametri di palle rispondenti alle libre di varii paesi, per
+fuggire la confusione noteremo sempre diametri di palle di piombo
+di 10. libre di peso, li quali troveremo esser maggiori, ò minori 
+secondo la diversità delle libre, & il segnare tali diametri senza obligarci
+à ritrovare attualmente palle di piombo di 10. libre di peso
+non ci sarà difficile per quello che di sopra nella operazione 23. 
+si è insegnato; dove dato un diametro d'una palla  di qual si voglia 
+peso, & di qualunque materia s'è veduto come si trovi il diametro 
+d' un' altra d' ogni altro peso, & di qual si voglia altra materia, 
+intendendo però sempre delle materie sopra le linee Metalliche 
+notate; tal che, ritrovandoci noi in qual si voglia paese, pur che 
+troviamo una palla di Marmo, di Pietra, ò d' altra materia sopra 
+lo Strumento segnata, potremo in un subito investigare 
+il diametro d'una palla di piombo 
+di 10. libre di peso.
+
+
+COME PROPOST0 UN CORPO DI QUAL SI 
+voglia materia possiamo ritrovare tutte le misure particolari
+di uno d'altra materia, & che pesi un dato peso.
+Operazione XXV.
+Tra gli usi che da queste medesime linee si possono 
+cavare uno è questo, col quale possiamo crescere,
+ò diminuire le figure solide secondo qual si 
+voglia proporzione non mutando, overo mutando
+la materia; il che dal seguente essempio s'intenderà. 
+Ci viene presentato un piccolo modello 
+d'Artiglieria fatto v. g. di stagno, & noi haviamo bisogno di cavare 
+da tal modello tutte le misure particolari per un pezzo grande 
+fatto di Rame, & che pesi  per essempio 5000. libre.
+Prima faremo pesare il piccolo modello di stagno, & sia il suo 
+peso libre 17. Dipoi prenderemo una delle sue misure qual più ci 
+piacerà, & sia v. g. la sua grossezza alla gioia; la quale applicheremo
+aprendo lo Strumento alli punti St. St. delle linee Metalliche 
+(essendo questa la materia del modello propostoci) & perche il 
+pezzo grande deve farsi di Rame prenderemo immediatamente 
+la distanza trà li punti Ra. Ra. la quale saria la grossezza della gioia 
+d'una Artigliaria di Rame, quando quella dovesse pesare quanto 
+l'altra di stagno; mà perche deve pesare libre 5000. & non 17. come 
+l'altra, però ricorreremo alle linee Stereometriche, sopra le quali 
+applicheremo quell'intervallo pur hora preso trà li punti Ra. Ra. 
+alli punti segnati 17. 17. & non movendo lo Strumento piglieremo 
+l' intervallo de i punti 100. 100. che saria la grossezza alla gioia 
+d'un pezzo di 100. libre di peso; mà noi vogliamo che sia di libre 
+5000. però questa distanza si deve augumentare secondo la 
+proporzione quinquagecupla; onde aprendo più lo Strumento
+la metteremo à qualche numero del quale ve ne sia un altro 50. 
+volte maggiore; come saria se l'applicassimo alli punti 2. 2. pigliando 
+poi l'intervallo trà li punti 100. 100. il quale senz'alcun 
+dubbio sarà la misura della grossezza, che deve darsi alla gioia. 
+Et con tal' ordine si ritroveranno tutte le misure particolari di tutti 
+
+
+li altri membri come della gola, de gli orecchioni, della culatta, &c.
+Ne meno resteremo di ritrovare la lunghezza dell'Artigliaria
+ancor chè non possiamo aprire il nostro Strumento sino à tanto 
+spazio; & per trovarla, del piccolo modello non piglieremo l'intera 
+lunghezza, mà solo una sua parte, come saria l'ottava, ò la decima, 
+&c. La quale accresciuta con l'ordine pur hora dichiarato ci 
+rappresenterà in fine l' ottava, ò decima parte di tutta la lunghezza 
+dell'Artiglieria grande.
+Mà qui potria per avventura à qualch'uno nascer difficoltà, se 
+dalle nostre linee Metalliche nel modo che si sono trovate le dette 
+misure trasmutando l'uno nell'altro metallo semplice, così si potesse 
+far l'istesso in una allegazione di due metalli, come à punto 
+quando nell' essempio sopraposto volessimo formare il pezzo non 
+di Rame schietto, mà di metallo misto di Rame, & di Stagno, 
+come anco comunemente si costuma di fare, onde noi per intera 
+sodisfazione mostreremo potersi con l'aiuto delle medesime linee 
+Metalliche ritrovare le medesime misure in qual si voglia allegatione
+non altrimente, che in un semplice metallo, & ciò si farà con 
+l' aggiugner due piccolissimi punti sopra le linee Metalliche; dico 
+piccolissimi, acciocche ad arbitrio nostro, di poi che ce ne saremo
+serviti possiamo cancellarli, & dato per essempio che il pezzo dell'
+Artiglieria che vogliamo fare non di Rame puro come di sopra
+si suppose, mà di bronzo dovesse esser gettato, la cui lega fusse per
+ogni 3. di Rame uno di Stagno, allora verremo con diligenza dividendo
+tanto dall'una, quanto dall'altra parte quella breve linea 
+che è trà li punti segnati Ra. & Sta. in quattro particelle delle quali 
+trè se ne lascieranno verso lo Stagno, & una sola verso il Rame, 
+& quivi si farà il punto apparente, del qual punto (segnato, come 
+si disse, tanto nell'una quanto nell'altra linea Metallica) ci serviremo 
+per la trasmutatione del metallo non altrimenti che ci servimmo 
+di sopra de i punti Ra. Ra. & con simil regola si potranno secondo 
+l' occorrenze segnare nuovi punti di allegazioni di qual si 
+voglino due metalli, & secondo qual si voglia lega.
+Mà non saria fuori di proposito, & senza comodo notabile, &
+in particolare quando s'habbia da fare la trasmutazione in metallo 
+
+
+misto, & allegato di due altri secondo qualunque proporzione;
+l' avertire, che quando si sia trovata una sola delle misure che si ricercano
+con l'operare con somma esquisitezza nel modo dichiarato 
+di sopra, si potranno, in virtù di questa unica misura ritrovata
+investigare poi tutte l' altre con l'aiuto delle linee Aritmetiche, con 
+modo non molto differente da quello, che nell'Oper. terza fu dichiarato,
+come, per essempio. Era la linea A. il diametro, ò vogliamo 
+dire la grossezza alla gioia del modello d'Artiglieria propostoci,
+& si trovò la linea B. per grossezza della gioia dell'Artiglieria 
+di libre 5000. da farsi di metallo che tenga tre di Rame, & due 
+di Stagno. Dico adesso che per trovar tutte l' altre dimensioni che 
+restano ci potremo prevalere delle linee Aritmetiche, pigliando 
+la linea B. & applicandola per traverso, à che punto ci piace di esse 
+linee Aritmetiche, & quanto maggior numero piglieremo meglio 
+sarà; la onde l'applicheremo v. g. all'ultimo punto, cioè al 250. & 
+non movendo lo Strumento vederemo à qual punto s' accomodi
+pur trasversalmente la linea A. che sia v. g. al 44. Dalche vegniamo 
+in cognitione, come essendo la misura A. del modello punti 44.
+quella che gl' ha da rispondere del pezzo reale deve essere 250.
+de i medesimi punti, & questa medesima proporzione hà da esser 
+osservata in ciascheduna altra misura. Onde per trovare per essempio 
+la grossezza del pezzo reale nella gola prenderai tal grossezza 
+dal piccolo modello, & applicala trasversalmente alli punti 
+44. delle linee Aritmetiche, prendendo poi, pur trasversalmente la 
+distanza frà li punti 250. che sarà la grossezza della gola dell'Artiglieria 
+grande. Et col medesimo ordine si troveranno tutte l' altre 
+misure.
+In oltre per trovare facilissimamente, & con somma esquisitezza 
+la linea B. prima, che risponda al punto della lega delli due metalli 
+assegnati: Si potrà proceder così: ritrovando prima separatamente 
+
+
+le due misure semplici, che respondino l'una allo stagno,
+& l'altra al rame, come le due linee ED. CE. delle quali ED. sia 
+la misura rispondente al rame puro, & la CE. al puro stagno, si 
+che la differenza loro sia la linea DE. la quale si dividerà secondo 
+la proporzione assegnata per la lega; come volendo 3. di Rame, & 
+2. di stagno si taglierà la linea DE. nel punto F. in maniera che la
+FE. verso lo Stagno sia 3. parti, & la FD verso il rame parti 2. che 
+si farà col dividere tutta la DE. in cinque parti lasciandone 3. verso 
+F. & 2. verso D. & la linea CF. sarà la nostra principale, 
+qual fu poco di sopra la linea B. secondo la ragion della 
+quale col semplice mezo delle linee Aritmetiche
+si troveranno tutte l' altre 
+misure, senza più 
+ricorrere 
+ad altre linee Metalliche, ò Stereometriche
+nel modo che si è insegnato 
+nella terza Operazione. 
+
+
+DELLE LINEE 
+POLIGRAFICHE,
+E COME CON ESSE POSSIAMO 
+Descrivere i Poligoni regolari, cioè le figure
+di molti lati, & angoli eguali.
+Oper. XXVI.
+Volgendo lo Strumento dall'altra parte, ci si 
+rappresentano le linee più interiori nominate Poligrafiche 
+dal loro uso principale, che è di descrivere 
+sopra una linea proposta Figure di quanti lati, 
+& angoli eguali ci verrà ordinato, & questo facilmente 
+conseguiremo pigliando con un Compasso 
+la lunghezza della linea data, la quale si adatterà alli punti segnati 
+6. 6. dipoi senza muover lo Strumento piglieremo l'intervallo trà i 
+punti notati col numero che numera i lati della figura, che descrivere 
+vogliamo; come v. g. per descrivere una figura di 7. lati prenderemo 
+l'intervallo trà li punti 7. 7. il quale sarà il semidiametro 
+del Cerchio che comprenderà l' Eptagono da descriversi; siche posta 
+un'asta del Compasso hora sopra l'uno, & hora sopra l'altro 
+termine della linea data faremo sopra di essa un poco d' intersecazione
+con l'altra, & quivi fatto centro descriveremo con l' istessa
+apertura un cerchio occulto, il quale passando per i termini della 
+data linea la riceverà 7. volte apunto nella sua circonferenza, onde 
+l' Eptagono ne venga descritto.
+DIVISIONE DELLA CIRCONFERENZA DEL
+Cerchio in quante parti ci piacerà. Oper. XXVII.
+Con queste linee si dividerà la circonferenza in molte parti
+operando per il converso della precedente operazione, 
+pigliando il semidiametro del Cerchio dato, & applicandolo 
+al numero delle partii nelle quali si hà da dividere 
+il Cerchio, pigliando poi sempre l'intervallo de i punti 6. 6. 
+il quale dividerà la circonferenza nelle parti che si volevano.
+
+
+ESPLICAZIONE DELLE LINEE 
+TETRAGONICHE,
+E COME COL MEZO D' ESSE 
+Quadri il Cerchio, & ogni altra figura regolare, & più
+come si trasmutino tutte l'una nell'altra.
+Oper. XXVIII.
+Sono queste linee Tetragoniche così dette dal loro uso 
+principale, che è di quadrare tutte le superficie regolari, 
+& il Cerchio appresso; & ciò si fa con facilissima 
+operazione; imperoche volendo costituire un quadrato 
+eguale à un dato Cerchio altro non doviamo fare, salvo che 
+prendere con un Compasso il suo semidiametro, & à questo, aprendo 
+lo Strumento, aggiustare li due punti delle linee Tetragoniche
+segnati con li due piccoli Cerchietti, & non movendo lo Strumento,
+se si prenderà col Compasso l'intervallo trà i punti delle medesime
+linee segnati 4. 4. si haverà il lato del Quadrato eguale al 
+dato Cerchio. Et non altrimenti quando volessimo il lato del pentagono, 
+ò dello Esagono, eguali al medesimo Cerchio, si prenderà la 
+distanza trà i punti 5. 5, ò quella trà i punti 6. 6. che tali sono i lati 
+del pentagono, ò dell'Esagono eguali al medesimo Cerchio.
+In oltre, quando volessimo per il converso, dato un Quadrato,
+ò altro Poligono regolare, trovar un Cerchio ad esso eguale, preso 
+un lato dal detto Poligono, & accomodatolo al punto delle linee 
+Tetragoniche rispondente al numero de i lati della figura proposta, 
+si prenderà senza movere lo Strumento la distanza trà le 
+note del Cerchio, la quale fatta semidiametro descriverà il Cerchio 
+eguale al dato Poligono, & in conclusione con quest'ordine potrassi 
+ritrovare il lato di qual si voglia figura regolare, eguale à 
+qualunque altra propostaci. Come v. g. dovendo noi costituire
+un' ottangolo eguale à un dato Pentagono, s' aggiusterà lo Strumento,
+siche il lato del Pentagono proposto s'accomodi alli punti 
+5. 5. & non mutando lo Strumento l'intervallo frà li punti 8. 8.
+sarà il lato dell'ottangolo, che si cercava.
+
+
+COME PROPOS'l'E DIVERSE FIGURE REGOLARI, 
+benche trà di loro dissimili, se ne possa costituire una
+sola eguale à tutte quelle. Operazione XXIX.
+La resolutione del presente Problema depende dalla 
+precedente operazione, & dalla X. di sopra dichiarata,
+per ciò che essendoci v. g. proposte queste 
+figure, un cerchio, un triangolo, un pentagono, 
+& un exagono & imposto, che troviamo un 
+Quadrato eguale à tutte le dette figure, prima per 
+l'operazione precedente troveremo separatamente 4. quadrati eguali 
+alle 4. dette figure; dipoi col mezo dell'operazione X. troveremo 
+un solo quadrato eguale à quelli 4. il quale senz' alcun dubio 
+sarà eguale alle 4. figure proposte.
+COME SI POSSA COSTITUIRE QUAL SI 
+voglia figura regolare eguale ad ogn'altra irregolare, ma
+rettilinea figura proposta. Oper. XXX.
+La presente operazione è non meno utile che curiosa, 
+insegnandoci il modo, non pure di riquadrare tutte le 
+superficie irregolari, mà di ridurle ò in cerchio, ò in 
+qual si voglia altra figura regolare: & perche ogni rettilineo 
+si risolve in triangoli, quando noi sapremo costituire
+un quadrato eguale à qual si voglia triangolo, costituendo 
+noi separatamente quadrati particolari eguali à ciaschedun triangolo 
+ne i quali il rettilineo dato si risolve, & poi con l'operazione X. 
+riducendo tutti questi quadrati in un solo, sarà, come è manifesto, 
+ritrovato il quadrato eguale al proposto rettilineo, il qual quadrato 
+col mezo delle linee Tetragoniche potremo ad arbitrio nostro 
+convertire in un cerchio, in un pentagono, ò in altra figura rettilinea 
+regolare. Si è dunque la resoluzione del presente quesito ridotta 
+à dover noi trovare un quadrato eguale à qual si voglia triangolo 
+proposto, il che con modo facilissimo si haverà dal Lemma 
+seguente.
+
+
+LEMMA PER LE COSE DETTE DI SOPRA.
+Oper. XXXI.
+Siaci dunque proposto di dover costituire un quadrato 
+eguale al dato Triangolo ABC. Pongansi da parte 
+due linee ad angoli retti DE. FG. dipoi con un compasso 
+da quattro punte che da una parte apra il doppio 
+dell'altra, fermata 
+nell'angolo A. una delle 
+maggiori aste, slarghisi
+l'altra sin che girata intorno
+rada la linea opposta 
+BC. dipoi voltando 
+il compasso notisi con 
+le aste più brevi la distanza 
+FH. che sarà la metà 
+della perpendicolare cadente 
+dall'angolo A. sopra 
+il lato opposto BC. 
+il che fatto, prendasi pure con le maggiori aste 
+la linea BC. la quale si 
+trasporti in FI. & fermata 
+una delle maggiori aste 
+nel punto I. slarghisi
+l'altra sino al punto H.
+& volgendo il compasso, 
+senza stringerlo ò allargharlo, 
+segnisi con le 
+punte della metà la distanza IK. & fermata una di queste punte in 
+K. tagliai con l'altra la perpendicolare FG. nel punto L. & haveremo 
+la linea LF. lato del quadrato eguale al triangolo ABC.
+
+
+Mà notisi, che se bene haviamo messa questa operazione fatta linealmente
+senza lo Strumento: non è però che sopra lo Strumento
+ancora non si possa facilissimamente ritrovare; imperò che, quando
+vorremo ridurre qualunque triangolo in quadrato, come per essempio
+il Triangolo ABC. allora presa dall'angolo A. la perpendicolare
+cadente sopra il lato opposto BC. considereremo sopra la scala 
+Aritmetica quanti punti contenga, & trovato contenerne v. g. 
+45. applicheremo questa distanza trasversalmente al 45. delle linee 
+Geometriche; pigliando poi la metà della linea BC. considereremo 
+parimente quanti punti della medesima scala Aritmetica essa comprenda, 
+& trovato contenerne per essempio 37. piglieremo 
+trasversalmente dalle linee Geometriche la distanza 
+trà essi punti 37. la quale ci darà la linea D. 
+il cui Quadrato sarà eguale 
+al triangolo 
+ABC.
+
+
+DELLE LINEE AGGIUNTE PER LA QUADRATURA 
+delle parti del Cerchio, e delle figure contenute da parti
+di circunferenze, ò da linee rette, & curve insieme. Oper. 32.
+Restano finalmente le due linee aggiunte, così dette 
+perche aggiungono alle linee Tetragoniche quello, 
+che in esse potria desiderarsi; cioè il modo di riquadrare 
+le porzioni del cerchio, & le altre Figure,
+che nel titolo si sono dette, & più distintamente 
+di sotto si esplicheranno. Sono queste linee segnate 
+con due ordini di numeri, de i quali lo esteriore comincia dal 
+punto segnato con questa nota seguitando poi li numeri 1. 2. 3. 4. 
+sino in 18. l'altro ordine interiore comincia da questo segno 
+seguitando poi 1. 2. 3. 4. &c. pur sino à 18. col mezo delle quali 
+linee potremo primamente riquadrare qual si voglia porzione di 
+cerchio propostaci, la quale però non sia maggior  di mezo cerchio,
+& l'uso acciò meglio s'intenda, con l' essempio s'esplicherà.
+Vogliamo v. g. trovare il quadrato eguale alla porzione del cerchio 
+ABC. dividasi la sua corda AC. nel mezo nel punto D. & presa
+con un compasso la distanza AD. s' accomodi, aprendo lo strumento, 
+alli punti segnati & lasciato lo strumento in tale stato, 
+prendasi l'altezza della porzione, cioè la linea DB, & veggasi à 
+quale de i punti dell' ordine 
+esteriore tale altezza s' accomodi, 
+che sia per essempio alli 
+punti segnati 2. 2. il che fatto 
+doviamo con un compasso 
+prender subito l' intervallo trà 
+li punti 2. 2. dell'ordine interiore, 
+& sopra una linea di questa 
+grandezza si deve formare 
+il quadrato, che sarà eguale
+alla porzione ABC. Et quando 
+havessimo una superficie 
+contenuta da due porzioni 
+di cerchio simile alla presente 
+figura ABCD. potremo facilmente 
+
+
+ridurla in quadrato tirando la corda AC. dalla quale essa
+figura in due porzioni di cerchio vien divisa, dipoi, per la regola 
+posta di soprà si troveranno due quadrati eguali alle due porzioni 
+separati, & questi con l'intervento dell'oper. 10. si ridurranno 
+in un solo, & sarà fatto il tutto.
+Et con non dissimile operazione potrassi riquadrare ancora il settore
+del cerchio perche tirata la corda sotto la sua circonferenza sarà 
+tagliato in una porzione di cerchio, & in un triangolo; le quali
+due parti, per le cose disopra insegnate, potranno facilmente ridursi
+in due quadrati, & quelli poi in un solo.
+Resta finalmente, che mostriamo come le medesime linee ci possin
+servire per quadrare la porzione maggiore di mezo cerchio, il trapezio 
+contenuto da due rette, & due curve, simile à quello della figura 
+appresso ABCD. & la Lunula simile alla X. le quali tutte operazioni 
+hanno la medesima resoluzione: percioche, quanto alla porzione
+maggiore del cerchio, se noi quadreremo la rimanente porzione
+minore al modo di sopra insegnato, & tale quadrato caveremo 
+dal quadrato eguale à tutto 'l cerchio, il quadrato eguale al rimanente.
+sarà ancora, com'è manifesto, egual' alla maggior porzione 
+
+
+del Cerchio. Parimente, di tutta la porzione BAFDC. trovatone 
+il quadrato eguale, & da esso trattone il quadrato eguale alla porzione 
+AFB. il quadrato rimanente pareggerà il trapezio; & similmente 
+procedendo nella Lunula X. tirata la comune corda delle 
+due porzioni di cerchio, si prenderanno separatamente i quadrati 
+ad esse porzioni eguali, la differenza de i quali sarà il quadrato eguale alla 
+Lunula. Come poi delli due quadrati proposti si possa 
+trovare la differenza ridotta in un' altro quadrato, si è di sopra, nell' 
+Oper. XI. con l'intervento delle Linee Geometriche dichiarato.
+DELLE OPERAZIONI DEL QUADRANTE.
+Aggiugnendo allo Strumento il Quadrante, nella sua minore 
+circonferenza habbiamo la Squadra da bombardieri
+divisa secondo il solito in punti 12. l'uso ordinario 
+della quale è che si metta una sua costa nel vacuo 
+del pezzo, havendo prima sospeso il filo col perpendicolo dal centro 
+dello Strumento, il qual filo ci mostrerà, segando detta circonferenza, 
+quanta elevazione habbia il pezzo: cioè se 1. punto ò 2. ò 3.
+Et perche l' usar la Squadra in questa maniera non è senza pericolo,
+dovendo con l' uscir fuori de i Gabbioni, ò ripari, scoprirci alla
+vista dell'inimico, per ciò s'è pensato un altro modo di far l'istesso
+con sicurtà, cioè con l'applicare la Squadra presso al focone del pezzo. 
+Mà perche l'anima di dentro non è parallela con la superficie
+di fuori, essendo il metallo più grosso verso la culatta, bisogna supplire
+à tal difetto con l' allungare quell' asta della Squadra, che riguarda 
+verso la gioia, aggiugnendovi la sua zanca mobile, il che si
+farà aggiustando prima una sol' volta il pezzo à livello, & poi posando
+verso il focone la Squadra, con la zanca allungheremo il piede 
+anteriore, sin che il perpendicolo seghi il punto 6. & fermata la Zanca
+con la sua vite, segneremo una lineetta sopra la costa dello 
+Strumento, dove viene à terminar la cassella della detta zanca, acciò 
+in ogni occasione la possiamo mettere à segno, & poi se vorremo 
+dar' un punto d'elevazione, bisognerà alzar il pezzo tanto che il filo 
+seghi il numero 7. se vorremo 2. punti, doverà seghar l' 8. &c.
+
+
+La divisione che segue appresso è il Quadrante Astronomico,
+l'uso del quale, essendo stato trattato da altri, non sarà qui dichiarato 
+altrimente.
+L' altra circonferenza, che segue appresso, & che si vede divisa
+da alcune linee trasversali è per prender l'inclinazione della 
+scarpa di tutte le muraglie, cominciando da quelle, che havranno 
+per ogni 10. d'altezza uno di pendenza, sino quelle, che habbino 
+uno di pendenza per ogn' un e mezo d'altezza.
+Volendo servirci di tale Strumento, doviamo sospender' il filo 
+da quel piccolo foro, che si vede al principio della Squadra da bombardieri;
+dipoi, accostandoci alla muraglia pendente gl' applicheremo 
+sopra la costa opposta dello Strumento; avvertendo dove taglierà 
+il filo; perche, segando, per essempio, il numero 5. diremo quella 
+tal' muraglia haver per ogni 5. braccia d'altezza 1. di pendenza, 
+similmente, tagliando il numero 4. diremo haver 1. di pendenza per 
+ogni 4. d'altezza.
+DIVERSI MODI PER MISURAR CON LA
+Vista, & prima delle Altezze Perpendicolari alla radice
+delle quali si possa accostare & discostare.
+L' ultima circonferenza divisa in 200. parti, è una Scala 
+per misurar Altezze, Distanze, & Profondità col mezo 
+della vista, Et prima, cominciando dall' Altezze, 
+mostreremo diverse maniere di misurarle, facendo
+principio dall' Altezze perpendicolari, alla radice delle 
+quali ci possiamo accostare. Come saria, se volessimo misurar l' altezza 
+della torre AB. venendo nel punto B. ci discosteremo verso C. 
+caminando 100 passi, ò 100. altre misure, & fermatici nel luogo C.
+traguardéremo con una costa dello Strumento l' altezza A. come 
+si vede secondo la costa CDA. notando i punti tagliati dal filo DI. i 
+quali se saranno nel centinaio opposto all' occhio, come si vede nell'
+essempio proposto per l' arco I. quanti saranno detti punti, tanti 
+passi, (ò altre delle misure, che haremo misurate in terra) diremo 
+contenere l' altezza AB.
+
+
+Mà se il filo taglierà l'altro centinaio, come si vede nella seguente figura, 
+volendo misurar l' altezza GH. sendo l'occhio in I. dove il filo
+taglia i punti MO. allora, preso il numero di detti punti divideremo 
+per esso il numero 10000. & l' avvenimento sarà il numero 
+delle misure che nell'altezza GH. si conterranno, come v. g. se il filo 
+havesse tagliato il punto 50. dividendo 10000. per 50. haremo 
+200. & tante saranno le misure dell' Altezza GH.
+Et perche haviamo veduto che alle volte il filo segherà il centinaio 
+opposto alla costa, per la quale si traguarda, & tal volta ancora 
+taglierà il centinaio contiguo à detta costa, & questo potrà avvenire 
+in molte delle operazioni seguenti, però per regola universale 
+s' avvertirà sempre, che, quando il filo taglierà il primo centinaio 
+contiguo à detta costa si deve dividere 10000. per il numero tagliato 
+dal filo, seguendo poi nel resto dell' operazione la regola, che 
+sarà scritta: per che noi ne gl' essempi seguenti supporremo sempre 
+che il filo tagli l'altro centinaio.
+
+
+Ma acciò che tanto 
+più si scorgha la moltitudine 
+de gl' usi, di 
+questo nostro Strumento, 
+voglio, che i 
+computi più laboriosi, 
+che nelle regole 
+per misurar con la vista 
+ci occorreranno, 
+siano senza fatica alcuna,
+& con somma 
+brevità ritrovati col 
+mezo del compasso 
+sopra le linee Aritmetiche. 
+Et facendo 
+principio dalla presente 
+operazione, per
+quelli, che non sapessero 
+partire 10000. 
+per quel numero tagliato 
+dal perpendicolo: 
+dico, che si pigli 
+rettamente sempre 
+100. dalle linee aritmetiche, & che trasversalmente s' accomodi 
+al numero de i punti tagliati da esso perpendicolo: pigliando poi
+pur trasversalmente, senza muover lo Strumento la distanza trà i 
+punti 100. la quale misurata rettamente ci darà l' altezza cercata. 
+Come v. g. se il filo havesse tagliato à 77. pigliando dalle linee aritmetiche 
+100. rettamente, applicalo trasversalmente al 77. & subito 
+prendi pur trasversalmente l'intervallo trà i punti 100. & torna à 
+misurarlo rettamente, & troverai contenere punti 130. & tante misure 
+dirai contenersi nell'altezza, che misurar volevamo.
+In altra maniera potremo misurar' una simil' Altezza, senza obligarci
+à misurar in terra le 100. misure, nel modo che si farà manifesto.
+Come se per essempio volessimo dal punto C. misurar l'Altezza 
+della torre AB. Drizzando la costa dello Strumento CDE. alla 
+
+
+sommità A. noteremo li punti tagliati dal filo EI. quali siano per 
+essempio 80. dipoi senza muoverci di luogo, abbassando solamente 
+lo Strumento, traguarderemo qual che segno più basso che sia 
+posto nella medesima Torre, come saria il punto F. notando il numero 
+de i punti tagliati dal filo, il quale sia v. g. 5. veggasi poi quante 
+volte questo minor numero 5. sia contenuto nell'altro 80. (che è 
+16. volte) & 16. volte diremo la distanza FB. esser contenuta in tutta 
+l' altezza BA. & perche il punto F. è basso potremo tale altezza 
+FB. con un'asta, ò altro facilmente misurare, & così venir' in cognizione 
+dell'altezza BA. avvertendo che, nel misurar l'altezze, noi
+ritroviamo, & misuriamo solamente l' altezze sopra l'orizonte del 
+nostr'occhio, tal che quando detto occhio sarà più alto della radice,
+ò base della cosa misurata, bisognerà aggingner' all'altezza trovata 
+per via dello Strumento, quel tanto di più che l'occhio sopravanza 
+detta radice.
+
+
+Il terzo modo di misurar' una simile Altezza, sarà con l'alzarci, &
+abbassarci: come volendo misurar l'altezza AB. costituendo 
+lo Strumento in qual che luogo elevato da terra, come saria nel 
+punto F. traguarderemo secondo la costa EF. il punto A. notando 
+i punti GI. tagliati dal filo, quali siano, per essempio 65. dipoi scendendo 
+al basso, & venendo perpendicolarmente sotto 'l punto F. 
+come saria nel punto C. traguarderemo la medesim' altezza secondo 
+la costa DC. notando i punti LO. quali saranno più de gl' altri
+come v. g. 70. dipoi prendasi la differenza trà questi due numeri 65.
+& 70. che è 5. & quante volte essa è contenuta nel maggior de i 
+detti numeri, cioè in 70. (che vi sarà contenuta 14. volte) tante volte 
+diremo l'altezza BA. contenere la distanza CF. la quale misureremo, 
+potendolo noi fare comodamente, & così verremo in cognizione 
+di tutta l' altezza AB.
+
+
+Et volendo noi misurar un'Altezza, la cui radice non si vedesse,
+come saria l' Altezza del monte AB. sendo nel punto C. traguarderemo
+la sommità A. notando i punti I. tagliati dal perpendicolo 
+DI. i quali siano, per essempio, 20. dipoi, accostandoci verso 
+il monte 100 passi innanzi, venendo nel punto E. traguarderemo 
+l' istessa sommità, notando i punti F. i quali siano 22. il che fatto 
+devonsi multiplicare trà loro questi due numeri 20. & 22. fanno 
+440. & questo si divida, per la differenza delli medesimi numeri,
+cioè per 2. ne viene 220. & tanti passi diremo esser alto il monte.
+Il computo si troverà sopra lo Strumento pigliando il minor numero
+de i punti tagliati, rettamente sopra le linee Aritmetiche, & 
+applicandolo poi trasversalmente alla differeriza delli due numeri 
+de i punti, pigliando in oltre trasversalmente l' altro numero de i 
+punti il quale misurato rettamente ci darà l'altezza cercata: come 
+se, per essempio, i punti tagliati fussero stati 42. & 58. preso 42. rettamente,
+buttisi trasversalmente alla differenza de i detti numeri, 
+cioè al 16. ò, non potendo, al suo doppio triplo quadruplo, &c.
+Sia al quadruplo, che è 64. & preso poi il 58. ò il suo quadruplo
+cioè 232. & misurato rettamente ci darà 152. e un quarto, che è il 
+proposito.
+
+
+Possiamo in oltre col medesimo Strumento misurare un' Altezza 
+posta sopra un'altra, come se volessimo misurare l'a ltezza della 
+Torre AB. posta sopra 'l monte BC. Prima, sendo nel punto D. 
+traguarderemo la sommità della torre A. notando i punti tagliati 
+dal filo EI. li quali siano v. grat. 18. poi, lasciando un'asta piantata
+nel punto D. venghiamo avanti sin tanto che traguardando la base 
+della Torre, cioè il punto B. il perpendicolo GO. tagli il medesimo 
+numero 18. il che sia quando saremo venuti al punto F. dipoi 
+misurinsi i passi trà le due Stationi DF. quali siano per essempio 
+130. & questo numero si multiplichi per i 18. punti, ne verrà 2340. 
+il qual numero si divida per 100. ne viene 23. & due quinti & tanti 
+passi sarà alta la torre AB.
+Il Computo sopra lo Strumento si farà col pigliar rettamente 
+il numero de i passi, ò quello de i punti, applicandolo poi trasversalmente
+al 100. prendendo poi l'altro pur trasversalmente, & 
+misurandolo rettamente. Come se, v. g. i punti fossero stati 64. & 
+i passi 146. & preso 64. rettamente, & applicatolo trasversalmente al 
+100. & preso poi trasversalmente 146. & misuratolo rettamente ci 
+darà 93. e mezo in circa, quanta è l'altezza che si cercava.
+
+
+Quanto alle profondità due modi haveremo per misurarle, & il
+primo sarà per misurar la profondità contenuta trà le linee parallele,
+come saria la profondità d' un pozzo, overo l'altezza d'una Torre, 
+quando noi fossimo sopra di essa, come per essempio; sia un pozzo 
+ABDC contenuto trà le linee parallele AC. DB. & voltando 
+l' angolo dello Strumento verso l'occhio E. si traguardi secondo 
+la costa EF. in maniera, che il raggio della vista passi per li punti 
+BC. notando il numero tagliato dal filo, il quale sia, verbi 
+gratia 5. & poi si consideri quante volte questo numero 5. entra 
+in 100. & tante volte diremo la larghezza BA. esser contenuta 
+nella profondità BD.
+
+
+L' altro modo sarà per misurar una profondità, della quale non 
+si vedesse la radice; come se fussimo sopra 'l monte BA. & volessimo 
+misurar la su' altezza sopra 'l piano della campagna; in tal 
+caso alziamoci sopra 'l monte salendo sopra qual che casa, torre, ò 
+albero, come si vede nella presente figura, & costituendo l' occhio 
+nel punto F. traguarderemo qual che segno posto nella campagna
+come si vede per il punto C. notando i punti tagliati dal filo FG. 
+che siano v. g. 32. dipoi scendendo nel punto D. traguardisi il medesimo
+segno C. con la costa DE. notando parimente i punti AI.
+che siano 30. & presa la differenza di questi due numeri, cioè 2, veggasi
+quante volte entra nel minor delli due numeri, & veduto che 
+vi entra 15. volte, diremo l' altezza del monte essere 15. volte più 
+dell'altezza FD. la quale, potendola noi misurare, ci farà venire in 
+notizia di quanto cercavamo.
+
+
+Passando al misurar le distanze, come saria una larghezza di 
+un fiume venendo sopra la ripa, ò altro luogo eminente, si 
+come nell' essempio si vede, nel qual volendo noi misurar la larghezza 
+CB. venendo nel punto A. traguarderemo con la costa AF.
+l' estremità B. notando i punti DE. tagliati dal perpendicolo, quali 
+siano verbi gratia 5. & quante volte questo numero entra in 100.
+tante volte diremo l'altezza AC. entrare nella larghezza CB. misurando 
+dunque quanta sia tale altezza AC. & pigliandola 20. 
+volte haveremo la larghezza cercata.
+
+
+Possiamo in altro 
+modo misurare una 
+simile distanza; come
+per essempio, sendo 
+noi nel punto A. vogliamo 
+trovare la distanza sino 
+al punto B. costituiscasi 
+lo Strumento in piano,
+& una delle sue coste
+sia drizzata verso il 
+punto B. & secondo la 
+dirittura dell' altra costa 
+traguardisi verso il 
+punto C. misurando sopra 
+la dirittura AC. 
+100. passi, ò altre misure, 
+& lascisi piantata 
+nel punto A. un' asta,
+& un'altra si ponga 
+nel punto C. dipoi
+venendo nel punto C. 
+si dirizzi una costa dello 
+Strumento verso A. 
+& per l'angolo C. si traguardi 
+il medesimo segno 
+B. notando sopra 
+il Quadrante qual punto 
+venga segato dal raggio 
+della vista, che sia 
+il punto E. & preso tal 
+numero, dividasi per esso 
+10000. & quello, 
+che ne verrà, sarà il numero de i passi, ò altre misure, che saranno 
+trà il punto A . & il segno B.
+
+
+Ma quando non ci fusse permesso 
+di poter moverci le 
+100. misure sopra una linea, 
+che facesse angolo retto col primo 
+traguardo in tal caso procederemo 
+altrimenti, come v. g. 
+essendo noi nel punto A. & volendo 
+pigliare la distanza AB. 
+ne potendo caminare per altra 
+strada, che per la AE. la quale 
+con la dirittura AB. fà angolo 
+acuto, per conseguire ad ogni 
+modo il nostro intento aggiusteremo 
+una costa dello Strumento
+prima alla strada, come 
+si vede per la linea AF. & senza 
+mover lo Strumento traguarderemo 
+per l' angolo A. il punto 
+B. notando i punti tagliati dal 
+raggio AD. quali siano per essempio 
+60. dipoi lasci ando nel 
+punto A. un'asta ne faremo mettere 
+sopra la linea AE. un'altra 
+lontana 100. passi, quale sia nel 
+punto F. dove costituiremo l'angolo 
+dello Strumento, aggiustando 
+la costa EF. all'asta A. 
+& per l'angolo F. traguarderemo 
+il medesimo segno B. notando 
+i punti GI. quali siano
+v. gra. 48. volendo dunque da 
+questi numeri 60. & 48. trovare la lontananza AB. multiplica il primo 
+in sè stesso. fa 3600. aggiugnili poi 10000. fa 13600. & di questo
+numero piglia la radice quadrata sarà 117. in circa, & questa 
+multiplica per 100. fa 11700. & finalmente dividi questo numero 
+per la differenza delli due primi numeri 60. & 48. cioè per 12. ne 
+verrà 975. & tanti passi senz'alcun dubio sarà la distanza AB.
+
+
+Troverassi la calculazione di questa operazione sopra lo Strumento, 
+come nel sottoposto essempio s' espone. Siano v. g. i punti tagliati
+da i due raggi, l'uno 74. & l'altro 36. & per trovare detto computo;
+aggiusta prima lo Strumento si che le linee Aritmetiche siano trà 
+di loro ad angoli retti. il che farai col prendere 100. punti rettamente 
+da esse, & questi applicare col compasso alle medesime trasversalmente, 
+in maniera che posta una delle aste nel punto 80. l'altra caschi 
+nel 60. (& questa regola d'aggiustare le dette linee à squadra 
+si tenga à memoria per altri bisogni.) fatto questo, prendi la distanza 
+trasversale trà 'l punto 100. & il maggior de i due numeri tagliati 
+da i raggi, che qui è 74. la qual distanza presa devi aggiustare trasversalmente 
+alla differenza de i due numeri de i punti tagliati da i 
+raggi, che qui è 38. & se non potessi per la piccolezza di questo numero: 
+serviti del suo doppio, triplo, ò quadruplo, & qui per essempio
+applicala al suo triplo, che è 114. & immediatamente piglia la 
+distanza pur trasversale trà li punti 100. la quale misurata rettamente, 
+& presa una, due, tre, ò quattro volte, ti darà la distanza cercata. 
+Misurala dunque nel presente essempio, & troverai la 109. si che triplicata 
+ti darà 327. quanta prossimamente è la distanza che misurar 
+volevamo.
+
+
+Seguita che veggiamo il modo di misurar l' intervallo trà due luoghi 
+da noi lontani, & prima diremo del modo, quando da qualche
+sito potessimo vederli ambidue per la medesima linea retta; come 
+mostra il presente essempio, nel quale volendo noi misurar l'intervallo
+trà i punti BA. stando nel punto C. di dove appariscono 
+per la medesima linea 
+CBA. prima, aggiustata 
+un'asta dello Strumento 
+à tale dirittura, si traguarderà 
+per l'altra verso 
+D. dove pianteremo 
+un'asta lontana dal punto 
+C. 100. misure havendone 
+una simile piantata 
+nel punto C. & venendo 
+al luogo D. aggiusteremo 
+una costa dello 
+Strumento alla dirittura 
+DC. traguardando 
+per l'angolo D. li due 
+luoghi B.A. & notando
+i numeri tagliati da' raggi, 
+che siano per essempio
+25. & 20. per i quali 
+due numeri, si deve 
+dividere 10000. & la differenza 
+delli due avvenimenti 
+sarà la distanza BA.
+
+
+Ma se volendo noi misurar la distanza trà i due luoghi CD. non 
+potessimo venir' in sito tale, che l'uno, & l' altro ci apparisse 
+per la medesima dirittura, in questo caso procederemo come appresso 
+si dirà. Sia dunque, che stando noi nel luogo A. vogliamo investigare 
+la lontananza trà i due luoghi CD. Prima, aggiustata una 
+costa dello Strumento al punto C. come si vede per la linea AEC. 
+traguardisi per l'angolo l'altro punto D. notando i punti EF. tagliati 
+dal raggio AFD. che siano v. g. 20. & senza muover lo Strumento, 
+si traguardi per l' altra costa verso 'l punto B, lasciando in A 
+un' asta, & un' altra facendone porre sopra la dirittura AB. di poi
+caminando per tale dirittura verremo in B. discostandoci dall' altr' 
+asta tanto, che ricostituita una costa dello Strumento sopra la linea 
+BA. l'altra costa ferisca il punto D. come apparisce per la linea 
+BD. & dall' angolo B. traguarderemo il punto C. notando il numero 
+tagliato dal raggio BG. che sia v. g. 15. finalmente si misureranno 
+i passi trà le due stazioni AB. quali siano per essempio 160. 
+& venendo all'operazione aritmetica, prima si multiplicherà il numero
+de i passi trà le due stazioni, cioè 160. per 100. fa 16000. & 
+questo si deve divider per i due numeri de i punti separatamente, 
+cioè per 20. & per 15. & ne verranno i due numeri 800. & 1067.
+de i quali se ne deve pigliar la differenza, che è 267. & questa si deve 
+multiplicar in se stessa fà 71289. & questo uumero si deve aggiugnere 
+al quadrato del numero de i passi, cioè di 160. che è 25600.
+& in tutto farà 96889. del qual numero si deve prendere la radice 
+quadrata, che è 311. & tanti passi diremo essere trà li due luoghi CD.
+Come poi si possa ritrovare il computo sopra lo Strumento, faremo
+col sottoposto essempio manifesto. Siano v. g. li due numeri 
+tagliati da i raggi 60. & 34. & il numero de passi 116. & venendo 
+all' operazione. Prendi sempre 100. dalle linee aritmetiche rettamente, 
+& applicalo trasversalmente al maggior numero de i due 
+tagliati da i raggi, che qui è 60. & subito prendi pur trasversalmente 
+il numero de i passi, che qui è 116. & questo intervallo accomoderai 
+trasversalmente all' altro numero de i raggi, che qui è 34. & se 
+non puoi, applicalo al suo doppio, triplo, quadruplo, ò quello che 
+più ti tornerà comodo: sia per hora al suo quadruplo, cioè al 136. 
+il che fatto, prendi trasversalmente il numero, che è la differenza 
+
+
+trà li due numeri de i raggi, che 
+quì è 26. ò pure piglia il suo 
+doppio, triplo, ò quadruplo, secondo 
+che poco fà si fece l' applicazione; 
+onde in questo caso
+devi pigliare il suo quadruplo, 
+cioè 104. & questa distanza misurerai
+rettamente, salvando in 
+memoria il numero che essa conterrà, 
+che nel presente essempio 
+sarà 148. aggiusta finalmente 
+le linee aritmetiche à squadra 
+al modo di sopra dichiarato, il 
+che fatto, piglia trasversalmente
+l' intervallo trà 'l numero, che 
+salvasti in memoria, & il numero 
+de i passi, cioè trà 'l 148. da 
+una parte, & il 116. dall' altra, 
+& questo misura rettamente & 
+troverai 188: quanta à punto è 
+la distanza cercata EDC.
+
+
+Et finalmente quando noi non potessimo moverci nella maniera 
+che ricerca la passata operazione, potremo pure nondimeno trovare 
+la lontananza trà due luoghi da noi distanti in altra maniera, 
+& il modo sarà tale. Sendo noi per essempio nel punto C. & volendo 
+ritrovar la distanza tra i due luoghi AB. prima secondo alcuno 
+de i modi dichiarati di sopra misuriamo separatamente le distanze
+trà 'l punto C. & l' A. & l'altra trà l' istesso C. & il punto B. & 
+sia per essempio la prima passi 850. & l' altra 530. & venendo nel 
+segno C. aggiustando una costa dello Strumento al punto A. come 
+si vede per la linea CDA. traguardisi per l'angolo C. l'altro 
+termine B. notando il numero de i punti DE. 
+tagliati dal raggio, che siano v. g. 15. multiplica 
+poi questo numero in se stesso fà 225. & à questo 
+aggiugni 10000. fà 10225. del quale prendi 
+la radice quadrata, che è 101. multiplica poi 
+la minor distanza, cioè 530. per 100. fa 53000. 
+il quale si divida per la radice pur hora trovata, 
+ne viene 525. & questo multiplica per la
+maggior distanza, cioè per 850. fa 446250. 
+il qual numero deve esser finalmente duplicato
+fa 892500. dipoi devonsi multiplicar separatamente
+le due distanze ciascuna in se stessa
+fanno 722500. & 28900. & questi numeri si 
+devono congiugnere insieme fanno 1003400.
+del qual numero si caverà quel duplicato di sopra
+cioè 892500. resterà 110900. la cui radice, 
+che è 347. sarà la distanza desiderata trà gli 
+due luoghi AB.
+Con notabil diminuzione di fatica potremo 
+fare il computo presente sopra le linee aritmetiche,
+& il modo si farà con un essempio manifesto. 
+Pongasi che la maggior distanza sia 
+stata passi 230. & la minore 104. & il numero de 
+i punti tagliati dal raggio 58. Metti le linee
+Aritmetiche à squadra, & posta un'asta 
+del Compasso nel punto 100. slarga l' altra in 
+
+
+traverso sino al numero de i punti tagliati dal raggio, che qui è 
+58. & considera quanto è questo spazio misurato rettamente, &
+lo troverai esser prossimamente 116. il che salva in mente; Piglia poi 
+rettamente il detto numero 58. che fu de i punti tagliati dal raggio, & 
+apri lo Strumento sin che questa distanza s' aggiusti in traverso
+trà il punto del 100. & quello del 116. che salvasti in mente; & non 
+movendo più lo Strumento prendi col compasso la distanza trasversale
+trà li due numeri de i passi, cioè 230. & 104. & questa misurata
+rettamente, ti darà infine punti 150. quanta è veramente la 
+distanza AB.
+Queste sole regole per misurar con la vista hò giudicato, Discreto
+Lettore, bastar per hora haver descritte; non che secondo 
+queste sole si possa col presente Strumento operare, essendocene 
+moltissime altre, mà per non mi diffondere in lunghi discorsi senza 
+necessità, essendo sicuro che qualunque di mediocre ingegno 
+haverà comprese le già dichiarate, potrà per se stesso ritrovarne altre
+accomodate ad ogni caso particolare, che occorrer gli potesse.
+Mà non solamente havrei potuto diffondermi più assai nelle regole
+clel misurar con la vista; mà molto, & molto più ampliarmi 
+nel mostrare la resoluzione, posso dire, d' infiniti altri Problemi di 
+Geometria, & di Aritmetica, i quali con le altre linee del nostro 
+Strumento risolver si possono; poiche, & quanti ne sono trà gli 
+Elementi di Euclide, & in molti altri Autori, vengono da me con 
+brevissime, & facilissime maniere risoluti; mà come da principio 
+si è detto la mia presente intenzione è stata di parlar con 
+persone militari solamente, & di pochissime altre 
+cose, fuori di quelle, che à simili professori 
+appartengono, riservandomi 
+in altra occasione 
+à publicare
+insieme con la fabrica dello 
+Strumento una più ampla descrittione 
+de' suoi 
+usi.
+IL FINE
